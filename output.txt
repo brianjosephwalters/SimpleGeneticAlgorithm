@@ -1,0 +1,160 @@
+Generation: 0
+  Process 0, Range: 0 - 11, 120 Best Fitness +1401.00
+  Process 1, Range: 12 - 23, 121 Best Fitness +1280.93
+  Process 2, Range: 24 - 35, 122 Best Fitness +1312.42
+  Process 3, Range: 36 - 47, 123 Best Fitness +1340.00
+  Process 4, Range: 48 - 59, 124 Best Fitness +1281.34
+  Process 5, Range: 60 - 71, 125 Best Fitness +1570.04
+  Process 6, Range: 72 - 83 Best Fitness +1318.92
+  Process 7, Range: 84 - 95 Best Fitness +1087.48
+  Process 8, Range: 96 - 107 Best Fitness +1244.67
+  Process 9, Range: 108 - 119 Best Fitness +1563.44
+Best Fit: +1570.04
+Generation: 1
+  Process 0, Range: 0 - 11, 120 Best Fitness +1570.04
+  Process 1, Range: 12 - 23, 121 Best Fitness +1381.56
+  Process 2, Range: 24 - 35, 122 Best Fitness +1306.79
+  Process 3, Range: 36 - 47, 123 Best Fitness +1186.86
+  Process 4, Range: 48 - 59, 124 Best Fitness +1541.42
+  Process 5, Range: 60 - 71, 125 Best Fitness +1190.51
+  Process 6, Range: 72 - 83 Best Fitness +1315.15
+  Process 7, Range: 84 - 95 Best Fitness +1243.89
+  Process 8, Range: 96 - 107 Best Fitness +1464.91
+  Process 9, Range: 108 - 119 Best Fitness +637.66
+Best Fit: +1570.04
+Generation: 2
+  Process 0, Range: 0 - 11, 120 Best Fitness +1570.04
+  Process 1, Range: 12 - 23, 121 Best Fitness +1572.87
+  Process 2, Range: 24 - 35, 122 Best Fitness +1440.51
+  Process 3, Range: 36 - 47, 123 Best Fitness +1208.17
+  Process 4, Range: 48 - 59, 124 Best Fitness +1333.07
+  Process 5, Range: 60 - 71, 125 Best Fitness +1355.49
+  Process 6, Range: 72 - 83 Best Fitness +1281.91
+  Process 7, Range: 84 - 95 Best Fitness +1505.16
+  Process 8, Range: 96 - 107 Best Fitness +1319.06
+  Process 9, Range: 108 - 119 Best Fitness +555.53
+Best Fit: +1572.87
+Generation: 3
+  Process 0, Range: 0 - 11, 120 Best Fitness +1572.87
+  Process 1, Range: 12 - 23, 121 Best Fitness +1435.66
+  Process 2, Range: 24 - 35, 122 Best Fitness +1591.95
+  Process 3, Range: 36 - 47, 123 Best Fitness +1459.33
+  Process 4, Range: 48 - 59, 124 Best Fitness +1381.56
+  Process 5, Range: 60 - 71, 125 Best Fitness +1364.13
+  Process 6, Range: 72 - 83 Best Fitness +1317.50
+  Process 7, Range: 84 - 95 Best Fitness +1397.27
+  Process 8, Range: 96 - 107 Best Fitness +1210.49
+  Process 9, Range: 108 - 119 Best Fitness +541.10
+Best Fit: +1591.95
+Generation: 4
+  Process 0, Range: 0 - 11, 120 Best Fitness +1591.95
+  Process 1, Range: 12 - 23, 121 Best Fitness +1215.22
+  Process 2, Range: 24 - 35, 122 Best Fitness +1400.80
+  Process 3, Range: 36 - 47, 123 Best Fitness +1282.32
+  Process 4, Range: 48 - 59, 124 Best Fitness +1511.74
+  Process 5, Range: 60 - 71, 125 Best Fitness +1330.87
+  Process 6, Range: 72 - 83 Best Fitness +1504.74
+  Process 7, Range: 84 - 95 Best Fitness +1440.95
+  Process 8, Range: 96 - 107 Best Fitness +1413.70
+  Process 9, Range: 108 - 119 Best Fitness +490.04
+Best Fit: +1591.95
+Generation: 5
+  Process 0, Range: 0 - 11, 120 Best Fitness +1591.95
+  Process 1, Range: 12 - 23, 121 Best Fitness +1430.56
+  Process 2, Range: 24 - 35, 122 Best Fitness +1276.16
+  Process 3, Range: 36 - 47, 123 Best Fitness +1338.97
+  Process 4, Range: 48 - 59, 124 Best Fitness +1391.96
+  Process 5, Range: 60 - 71, 125 Best Fitness +1503.46
+  Process 6, Range: 72 - 83 Best Fitness +1399.01
+  Process 7, Range: 84 - 95 Best Fitness +1643.02
+  Process 8, Range: 96 - 107 Best Fitness +1467.12
+  Process 9, Range: 108 - 119 Best Fitness +483.51
+Best Fit: +1643.02
+Generation: 6
+  Process 0, Range: 0 - 11, 120 Best Fitness +1643.02
+  Process 1, Range: 12 - 23, 121 Best Fitness +1485.39
+  Process 2, Range: 24 - 35, 122 Best Fitness +1354.74
+  Process 3, Range: 36 - 47, 123 Best Fitness +1589.68
+  Process 4, Range: 48 - 59, 124 Best Fitness +1275.29
+  Process 5, Range: 60 - 71, 125 Best Fitness +1592.24
+  Process 6, Range: 72 - 83 Best Fitness +1555.45
+  Process 7, Range: 84 - 95 Best Fitness +1379.51
+  Process 8, Range: 96 - 107 Best Fitness +1503.35
+  Process 9, Range: 108 - 119 Best Fitness +459.75
+Best Fit: +1643.02
+Generation: 7
+  Process 0, Range: 0 - 11, 120 Best Fitness +1643.02
+  Process 1, Range: 12 - 23, 121 Best Fitness +1461.67
+  Process 2, Range: 24 - 35, 122 Best Fitness +1372.62
+  Process 3, Range: 36 - 47, 123 Best Fitness +1414.85
+  Process 4, Range: 48 - 59, 124 Best Fitness +1453.91
+  Process 5, Range: 60 - 71, 125 Best Fitness +1330.86
+  Process 6, Range: 72 - 83 Best Fitness +1541.47
+  Process 7, Range: 84 - 95 Best Fitness +1440.74
+  Process 8, Range: 96 - 107 Best Fitness +1313.11
+  Process 9, Range: 108 - 119 Best Fitness +456.75
+Best Fit: +1643.02
+Generation: 8
+  Process 0, Range: 0 - 11, 120 Best Fitness +1643.02
+  Process 1, Range: 12 - 23, 121 Best Fitness +1533.61
+  Process 2, Range: 24 - 35, 122 Best Fitness +1281.56
+  Process 3, Range: 36 - 47, 123 Best Fitness +1357.34
+  Process 4, Range: 48 - 59, 124 Best Fitness +1385.44
+  Process 5, Range: 60 - 71, 125 Best Fitness +1482.41
+  Process 6, Range: 72 - 83 Best Fitness +1533.35
+  Process 7, Range: 84 - 95 Best Fitness +1611.94
+  Process 8, Range: 96 - 107 Best Fitness +1534.65
+  Process 9, Range: 108 - 119 Best Fitness +545.55
+Best Fit: +1643.02
+Generation: 9
+  Process 0, Range: 0 - 11, 120 Best Fitness +1643.02
+  Process 1, Range: 12 - 23, 121 Best Fitness +1546.46
+  Process 2, Range: 24 - 35, 122 Best Fitness +1674.30
+  Process 3, Range: 36 - 47, 123 Best Fitness +1556.90
+  Process 4, Range: 48 - 59, 124 Best Fitness +1528.70
+  Process 5, Range: 60 - 71, 125 Best Fitness +1553.10
+  Process 6, Range: 72 - 83 Best Fitness +1465.30
+  Process 7, Range: 84 - 95 Best Fitness +1840.78
+  Process 8, Range: 96 - 107 Best Fitness +1486.84
+  Process 9, Range: 108 - 119 Best Fitness +423.29
+Best Fit: +1840.78
+Generation: 10
+Best Fit: +1840.78
+Generation: 11
+Best Fit: +1843.11
+Generation: 12
+Best Fit: +1843.11
+Generation: 13
+Best Fit: +1886.71
+Generation: 14
+Best Fit: +1886.71
+Generation: 15
+Best Fit: +1886.71
+Generation: 16
+Best Fit: +1886.71
+Generation: 17
+Best Fit: +1947.58
+Generation: 18
+Best Fit: +1947.58
+Generation: 19
+Best Fit: +1947.58
+Generation: 20
+Best Fit: +1997.22
+Generation: 21
+Best Fit: +1997.22
+Generation: 22
+Best Fit: +1997.22
+Generation: 23
+Best Fit: +1997.22
+Generation: 24
+Best Fit: +1997.22
+Generation: 25
+Best Fit: +1997.22
+Generation: 26
+Best Fit: +2127.06
+Generation: 27
+Best Fit: +2127.06
+Generation: 28
+Best Fit: +2134.28
+Generation: 29
+Best Fit: +2134.28

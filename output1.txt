@@ -1,0 +1,4010 @@
+Generation: 0
+  Process 0, Range: 0 - 199 Best Fitness +1517.73
+Best Fit: +1517.73
+Generation: 1
+  Process 0, Range: 0 - 199 Best Fitness +1578.94
+Best Fit: +1578.94
+Generation: 2
+  Process 0, Range: 0 - 199 Best Fitness +1578.94
+Best Fit: +1578.94
+Generation: 3
+  Process 0, Range: 0 - 199 Best Fitness +1578.94
+Best Fit: +1578.94
+Generation: 4
+  Process 0, Range: 0 - 199 Best Fitness +1737.53
+Best Fit: +1737.53
+Generation: 5
+  Process 0, Range: 0 - 199 Best Fitness +1737.53
+Best Fit: +1737.53
+Generation: 6
+  Process 0, Range: 0 - 199 Best Fitness +1737.53
+Best Fit: +1737.53
+Generation: 7
+  Process 0, Range: 0 - 199 Best Fitness +1737.53
+Best Fit: +1737.53
+Generation: 8
+  Process 0, Range: 0 - 199 Best Fitness +1737.53
+Best Fit: +1737.53
+Generation: 9
+  Process 0, Range: 0 - 199 Best Fitness +1737.53
+Best Fit: +1737.53
+Generation: 10
+Best Fit: +1737.53
+Generation: 11
+Best Fit: +1882.48
+Generation: 12
+Best Fit: +1882.48
+Generation: 13
+Best Fit: +1882.48
+Generation: 14
+Best Fit: +1882.48
+Generation: 15
+Best Fit: +1882.48
+Generation: 16
+Best Fit: +1944.38
+Generation: 17
+Best Fit: +1944.38
+Generation: 18
+Best Fit: +1944.38
+Generation: 19
+Best Fit: +1944.38
+Generation: 20
+Best Fit: +2020.02
+Generation: 21
+Best Fit: +2020.02
+Generation: 22
+Best Fit: +2020.02
+Generation: 23
+Best Fit: +2020.02
+Generation: 24
+Best Fit: +2112.57
+Generation: 25
+Best Fit: +2112.57
+Generation: 26
+Best Fit: +2112.57
+Generation: 27
+Best Fit: +2112.57
+Generation: 28
+Best Fit: +2112.57
+Generation: 29
+Best Fit: +2112.57
+Generation: 30
+Best Fit: +2122.19
+Generation: 31
+Best Fit: +2122.19
+Generation: 32
+Best Fit: +2122.19
+Generation: 33
+Best Fit: +2122.19
+Generation: 34
+Best Fit: +2122.19
+Generation: 35
+Best Fit: +2122.19
+Generation: 36
+Best Fit: +2122.19
+Generation: 37
+Best Fit: +2122.19
+Generation: 38
+Best Fit: +2130.08
+Generation: 39
+Best Fit: +2134.69
+Generation: 40
+Best Fit: +2134.69
+Generation: 41
+Best Fit: +2134.69
+Generation: 42
+Best Fit: +2134.69
+Generation: 43
+Best Fit: +2269.80
+Generation: 44
+Best Fit: +2269.80
+Generation: 45
+Best Fit: +2269.80
+Generation: 46
+Best Fit: +2269.80
+Generation: 47
+Best Fit: +2269.80
+Generation: 48
+Best Fit: +2269.80
+Generation: 49
+Best Fit: +2269.80
+Generation: 50
+Best Fit: +2269.80
+Generation: 51
+Best Fit: +2269.80
+Generation: 52
+Best Fit: +2269.80
+Generation: 53
+Best Fit: +2269.80
+Generation: 54
+Best Fit: +2274.07
+Generation: 55
+Best Fit: +2298.86
+Generation: 56
+Best Fit: +2298.86
+Generation: 57
+Best Fit: +2301.42
+Generation: 58
+Best Fit: +2301.42
+Generation: 59
+Best Fit: +2301.42
+Generation: 60
+Best Fit: +2301.42
+Generation: 61
+Best Fit: +2309.54
+Generation: 62
+Best Fit: +2309.54
+Generation: 63
+Best Fit: +2309.54
+Generation: 64
+Best Fit: +2314.00
+Generation: 65
+Best Fit: +2314.00
+Generation: 66
+Best Fit: +2325.08
+Generation: 67
+Best Fit: +2333.16
+Generation: 68
+Best Fit: +2333.16
+Generation: 69
+Best Fit: +2416.75
+Generation: 70
+Best Fit: +2416.75
+Generation: 71
+Best Fit: +2416.75
+Generation: 72
+Best Fit: +2416.75
+Generation: 73
+Best Fit: +2416.75
+Generation: 74
+Best Fit: +2416.75
+Generation: 75
+Best Fit: +2416.75
+Generation: 76
+Best Fit: +2416.75
+Generation: 77
+Best Fit: +2416.75
+Generation: 78
+Best Fit: +2416.75
+Generation: 79
+Best Fit: +2416.75
+Generation: 80
+Best Fit: +2416.75
+Generation: 81
+Best Fit: +2416.75
+Generation: 82
+Best Fit: +2416.75
+Generation: 83
+Best Fit: +2416.75
+Generation: 84
+Best Fit: +2416.75
+Generation: 85
+Best Fit: +2416.75
+Generation: 86
+Best Fit: +2416.75
+Generation: 87
+Best Fit: +2416.75
+Generation: 88
+Best Fit: +2416.75
+Generation: 89
+Best Fit: +2416.75
+Generation: 90
+Best Fit: +2416.75
+Generation: 91
+Best Fit: +2416.75
+Generation: 92
+Best Fit: +2416.75
+Generation: 93
+Best Fit: +2416.75
+Generation: 94
+Best Fit: +2416.75
+Generation: 95
+Best Fit: +2416.75
+Generation: 96
+Best Fit: +2416.75
+Generation: 97
+Best Fit: +2416.75
+Generation: 98
+Best Fit: +2416.75
+Generation: 99
+Best Fit: +2416.75
+Generation: 100
+Best Fit: +2416.75
+Generation: 101
+Best Fit: +2416.75
+Generation: 102
+Best Fit: +2416.75
+Generation: 103
+Best Fit: +2416.75
+Generation: 104
+Best Fit: +2416.75
+Generation: 105
+Best Fit: +2416.75
+Generation: 106
+Best Fit: +2416.75
+Generation: 107
+Best Fit: +2416.75
+Generation: 108
+Best Fit: +2416.75
+Generation: 109
+Best Fit: +2416.75
+Generation: 110
+Best Fit: +2416.75
+Generation: 111
+Best Fit: +2416.75
+Generation: 112
+Best Fit: +2416.75
+Generation: 113
+Best Fit: +2416.75
+Generation: 114
+Best Fit: +2416.75
+Generation: 115
+Best Fit: +2416.75
+Generation: 116
+Best Fit: +2416.75
+Generation: 117
+Best Fit: +2416.75
+Generation: 118
+Best Fit: +2416.75
+Generation: 119
+Best Fit: +2416.75
+Generation: 120
+Best Fit: +2416.75
+Generation: 121
+Best Fit: +2416.75
+Generation: 122
+Best Fit: +2416.75
+Generation: 123
+Best Fit: +2424.96
+Generation: 124
+Best Fit: +2424.96
+Generation: 125
+Best Fit: +2424.96
+Generation: 126
+Best Fit: +2439.19
+Generation: 127
+Best Fit: +2439.19
+Generation: 128
+Best Fit: +2439.19
+Generation: 129
+Best Fit: +2439.19
+Generation: 130
+Best Fit: +2439.19
+Generation: 131
+Best Fit: +2439.19
+Generation: 132
+Best Fit: +2439.19
+Generation: 133
+Best Fit: +2439.19
+Generation: 134
+Best Fit: +2439.19
+Generation: 135
+Best Fit: +2439.19
+Generation: 136
+Best Fit: +2439.19
+Generation: 137
+Best Fit: +2439.19
+Generation: 138
+Best Fit: +2439.19
+Generation: 139
+Best Fit: +2439.19
+Generation: 140
+Best Fit: +2439.19
+Generation: 141
+Best Fit: +2439.19
+Generation: 142
+Best Fit: +2439.19
+Generation: 143
+Best Fit: +2439.19
+Generation: 144
+Best Fit: +2439.19
+Generation: 145
+Best Fit: +2439.19
+Generation: 146
+Best Fit: +2439.19
+Generation: 147
+Best Fit: +2439.19
+Generation: 148
+Best Fit: +2439.19
+Generation: 149
+Best Fit: +2439.19
+Generation: 150
+Best Fit: +2452.52
+Generation: 151
+Best Fit: +2452.52
+Generation: 152
+Best Fit: +2452.52
+Generation: 153
+Best Fit: +2452.52
+Generation: 154
+Best Fit: +2452.52
+Generation: 155
+Best Fit: +2452.52
+Generation: 156
+Best Fit: +2452.52
+Generation: 157
+Best Fit: +2452.52
+Generation: 158
+Best Fit: +2452.52
+Generation: 159
+Best Fit: +2452.52
+Generation: 160
+Best Fit: +2452.52
+Generation: 161
+Best Fit: +2452.52
+Generation: 162
+Best Fit: +2452.52
+Generation: 163
+Best Fit: +2452.52
+Generation: 164
+Best Fit: +2452.52
+Generation: 165
+Best Fit: +2452.52
+Generation: 166
+Best Fit: +2452.52
+Generation: 167
+Best Fit: +2452.52
+Generation: 168
+Best Fit: +2452.52
+Generation: 169
+Best Fit: +2452.52
+Generation: 170
+Best Fit: +2452.52
+Generation: 171
+Best Fit: +2452.52
+Generation: 172
+Best Fit: +2452.52
+Generation: 173
+Best Fit: +2452.52
+Generation: 174
+Best Fit: +2452.52
+Generation: 175
+Best Fit: +2452.52
+Generation: 176
+Best Fit: +2452.52
+Generation: 177
+Best Fit: +2452.52
+Generation: 178
+Best Fit: +2452.52
+Generation: 179
+Best Fit: +2452.52
+Generation: 180
+Best Fit: +2452.52
+Generation: 181
+Best Fit: +2452.52
+Generation: 182
+Best Fit: +2452.52
+Generation: 183
+Best Fit: +2452.52
+Generation: 184
+Best Fit: +2452.52
+Generation: 185
+Best Fit: +2452.52
+Generation: 186
+Best Fit: +2452.52
+Generation: 187
+Best Fit: +2452.52
+Generation: 188
+Best Fit: +2471.41
+Generation: 189
+Best Fit: +2471.41
+Generation: 190
+Best Fit: +2471.41
+Generation: 191
+Best Fit: +2471.62
+Generation: 192
+Best Fit: +2471.62
+Generation: 193
+Best Fit: +2471.62
+Generation: 194
+Best Fit: +2471.62
+Generation: 195
+Best Fit: +2471.62
+Generation: 196
+Best Fit: +2471.62
+Generation: 197
+Best Fit: +2471.62
+Generation: 198
+Best Fit: +2471.62
+Generation: 199
+Best Fit: +2471.62
+Generation: 200
+Best Fit: +2471.62
+Generation: 201
+Best Fit: +2471.62
+Generation: 202
+Best Fit: +2471.62
+Generation: 203
+Best Fit: +2471.62
+Generation: 204
+Best Fit: +2472.05
+Generation: 205
+Best Fit: +2472.05
+Generation: 206
+Best Fit: +2472.05
+Generation: 207
+Best Fit: +2472.05
+Generation: 208
+Best Fit: +2472.05
+Generation: 209
+Best Fit: +2472.05
+Generation: 210
+Best Fit: +2472.05
+Generation: 211
+Best Fit: +2472.05
+Generation: 212
+Best Fit: +2472.05
+Generation: 213
+Best Fit: +2472.05
+Generation: 214
+Best Fit: +2472.05
+Generation: 215
+Best Fit: +2472.05
+Generation: 216
+Best Fit: +2472.05
+Generation: 217
+Best Fit: +2472.05
+Generation: 218
+Best Fit: +2472.05
+Generation: 219
+Best Fit: +2472.05
+Generation: 220
+Best Fit: +2472.05
+Generation: 221
+Best Fit: +2472.05
+Generation: 222
+Best Fit: +2497.62
+Generation: 223
+Best Fit: +2497.62
+Generation: 224
+Best Fit: +2497.62
+Generation: 225
+Best Fit: +2497.62
+Generation: 226
+Best Fit: +2497.62
+Generation: 227
+Best Fit: +2497.62
+Generation: 228
+Best Fit: +2497.62
+Generation: 229
+Best Fit: +2497.62
+Generation: 230
+Best Fit: +2497.62
+Generation: 231
+Best Fit: +2497.62
+Generation: 232
+Best Fit: +2497.62
+Generation: 233
+Best Fit: +2497.62
+Generation: 234
+Best Fit: +2497.62
+Generation: 235
+Best Fit: +2497.62
+Generation: 236
+Best Fit: +2497.62
+Generation: 237
+Best Fit: +2497.62
+Generation: 238
+Best Fit: +2497.62
+Generation: 239
+Best Fit: +2497.62
+Generation: 240
+Best Fit: +2497.62
+Generation: 241
+Best Fit: +2497.62
+Generation: 242
+Best Fit: +2497.62
+Generation: 243
+Best Fit: +2497.62
+Generation: 244
+Best Fit: +2497.62
+Generation: 245
+Best Fit: +2497.62
+Generation: 246
+Best Fit: +2497.62
+Generation: 247
+Best Fit: +2497.62
+Generation: 248
+Best Fit: +2497.62
+Generation: 249
+Best Fit: +2497.62
+Generation: 250
+Best Fit: +2497.62
+Generation: 251
+Best Fit: +2497.62
+Generation: 252
+Best Fit: +2497.62
+Generation: 253
+Best Fit: +2497.62
+Generation: 254
+Best Fit: +2497.62
+Generation: 255
+Best Fit: +2497.62
+Generation: 256
+Best Fit: +2497.62
+Generation: 257
+Best Fit: +2497.62
+Generation: 258
+Best Fit: +2497.62
+Generation: 259
+Best Fit: +2497.62
+Generation: 260
+Best Fit: +2497.62
+Generation: 261
+Best Fit: +2497.62
+Generation: 262
+Best Fit: +2497.62
+Generation: 263
+Best Fit: +2497.62
+Generation: 264
+Best Fit: +2497.62
+Generation: 265
+Best Fit: +2497.62
+Generation: 266
+Best Fit: +2497.62
+Generation: 267
+Best Fit: +2497.62
+Generation: 268
+Best Fit: +2497.62
+Generation: 269
+Best Fit: +2497.62
+Generation: 270
+Best Fit: +2497.62
+Generation: 271
+Best Fit: +2497.62
+Generation: 272
+Best Fit: +2497.62
+Generation: 273
+Best Fit: +2497.62
+Generation: 274
+Best Fit: +2497.62
+Generation: 275
+Best Fit: +2497.62
+Generation: 276
+Best Fit: +2497.62
+Generation: 277
+Best Fit: +2497.62
+Generation: 278
+Best Fit: +2497.62
+Generation: 279
+Best Fit: +2497.62
+Generation: 280
+Best Fit: +2497.62
+Generation: 281
+Best Fit: +2497.62
+Generation: 282
+Best Fit: +2497.62
+Generation: 283
+Best Fit: +2497.62
+Generation: 284
+Best Fit: +2497.62
+Generation: 285
+Best Fit: +2497.62
+Generation: 286
+Best Fit: +2497.62
+Generation: 287
+Best Fit: +2497.62
+Generation: 288
+Best Fit: +2497.62
+Generation: 289
+Best Fit: +2497.62
+Generation: 290
+Best Fit: +2497.62
+Generation: 291
+Best Fit: +2497.62
+Generation: 292
+Best Fit: +2497.62
+Generation: 293
+Best Fit: +2497.62
+Generation: 294
+Best Fit: +2497.62
+Generation: 295
+Best Fit: +2497.62
+Generation: 296
+Best Fit: +2497.62
+Generation: 297
+Best Fit: +2497.62
+Generation: 298
+Best Fit: +2497.62
+Generation: 299
+Best Fit: +2497.62
+Generation: 300
+Best Fit: +2497.62
+Generation: 301
+Best Fit: +2497.62
+Generation: 302
+Best Fit: +2501.37
+Generation: 303
+Best Fit: +2501.37
+Generation: 304
+Best Fit: +2501.37
+Generation: 305
+Best Fit: +2501.37
+Generation: 306
+Best Fit: +2501.37
+Generation: 307
+Best Fit: +2501.37
+Generation: 308
+Best Fit: +2501.37
+Generation: 309
+Best Fit: +2501.37
+Generation: 310
+Best Fit: +2501.37
+Generation: 311
+Best Fit: +2502.52
+Generation: 312
+Best Fit: +2521.25
+Generation: 313
+Best Fit: +2521.25
+Generation: 314
+Best Fit: +2522.98
+Generation: 315
+Best Fit: +2522.98
+Generation: 316
+Best Fit: +2522.98
+Generation: 317
+Best Fit: +2522.98
+Generation: 318
+Best Fit: +2522.98
+Generation: 319
+Best Fit: +2522.98
+Generation: 320
+Best Fit: +2522.98
+Generation: 321
+Best Fit: +2522.98
+Generation: 322
+Best Fit: +2522.98
+Generation: 323
+Best Fit: +2522.98
+Generation: 324
+Best Fit: +2522.98
+Generation: 325
+Best Fit: +2522.98
+Generation: 326
+Best Fit: +2522.98
+Generation: 327
+Best Fit: +2522.98
+Generation: 328
+Best Fit: +2522.98
+Generation: 329
+Best Fit: +2522.98
+Generation: 330
+Best Fit: +2522.98
+Generation: 331
+Best Fit: +2522.98
+Generation: 332
+Best Fit: +2522.98
+Generation: 333
+Best Fit: +2522.98
+Generation: 334
+Best Fit: +2522.98
+Generation: 335
+Best Fit: +2522.98
+Generation: 336
+Best Fit: +2522.98
+Generation: 337
+Best Fit: +2525.90
+Generation: 338
+Best Fit: +2530.34
+Generation: 339
+Best Fit: +2530.34
+Generation: 340
+Best Fit: +2530.34
+Generation: 341
+Best Fit: +2530.34
+Generation: 342
+Best Fit: +2530.34
+Generation: 343
+Best Fit: +2537.79
+Generation: 344
+Best Fit: +2537.79
+Generation: 345
+Best Fit: +2537.79
+Generation: 346
+Best Fit: +2537.79
+Generation: 347
+Best Fit: +2544.70
+Generation: 348
+Best Fit: +2544.70
+Generation: 349
+Best Fit: +2544.70
+Generation: 350
+Best Fit: +2544.70
+Generation: 351
+Best Fit: +2544.70
+Generation: 352
+Best Fit: +2544.70
+Generation: 353
+Best Fit: +2544.70
+Generation: 354
+Best Fit: +2544.70
+Generation: 355
+Best Fit: +2544.70
+Generation: 356
+Best Fit: +2546.45
+Generation: 357
+Best Fit: +2546.45
+Generation: 358
+Best Fit: +2546.45
+Generation: 359
+Best Fit: +2546.45
+Generation: 360
+Best Fit: +2546.45
+Generation: 361
+Best Fit: +2546.45
+Generation: 362
+Best Fit: +2575.38
+Generation: 363
+Best Fit: +2575.38
+Generation: 364
+Best Fit: +2575.38
+Generation: 365
+Best Fit: +2575.38
+Generation: 366
+Best Fit: +2575.38
+Generation: 367
+Best Fit: +2575.38
+Generation: 368
+Best Fit: +2575.38
+Generation: 369
+Best Fit: +2575.38
+Generation: 370
+Best Fit: +2575.38
+Generation: 371
+Best Fit: +2575.38
+Generation: 372
+Best Fit: +2575.38
+Generation: 373
+Best Fit: +2575.38
+Generation: 374
+Best Fit: +2575.38
+Generation: 375
+Best Fit: +2575.38
+Generation: 376
+Best Fit: +2575.38
+Generation: 377
+Best Fit: +2575.38
+Generation: 378
+Best Fit: +2575.38
+Generation: 379
+Best Fit: +2575.38
+Generation: 380
+Best Fit: +2575.38
+Generation: 381
+Best Fit: +2575.38
+Generation: 382
+Best Fit: +2575.38
+Generation: 383
+Best Fit: +2575.38
+Generation: 384
+Best Fit: +2575.38
+Generation: 385
+Best Fit: +2575.38
+Generation: 386
+Best Fit: +2575.38
+Generation: 387
+Best Fit: +2575.38
+Generation: 388
+Best Fit: +2575.38
+Generation: 389
+Best Fit: +2575.38
+Generation: 390
+Best Fit: +2575.38
+Generation: 391
+Best Fit: +2575.38
+Generation: 392
+Best Fit: +2575.38
+Generation: 393
+Best Fit: +2575.38
+Generation: 394
+Best Fit: +2575.38
+Generation: 395
+Best Fit: +2575.38
+Generation: 396
+Best Fit: +2575.38
+Generation: 397
+Best Fit: +2575.38
+Generation: 398
+Best Fit: +2575.38
+Generation: 399
+Best Fit: +2575.38
+Generation: 400
+Best Fit: +2575.38
+Generation: 401
+Best Fit: +2575.38
+Generation: 402
+Best Fit: +2575.38
+Generation: 403
+Best Fit: +2575.38
+Generation: 404
+Best Fit: +2575.38
+Generation: 405
+Best Fit: +2575.38
+Generation: 406
+Best Fit: +2575.38
+Generation: 407
+Best Fit: +2575.38
+Generation: 408
+Best Fit: +2575.38
+Generation: 409
+Best Fit: +2575.38
+Generation: 410
+Best Fit: +2575.38
+Generation: 411
+Best Fit: +2575.38
+Generation: 412
+Best Fit: +2575.38
+Generation: 413
+Best Fit: +2575.38
+Generation: 414
+Best Fit: +2575.38
+Generation: 415
+Best Fit: +2575.38
+Generation: 416
+Best Fit: +2575.38
+Generation: 417
+Best Fit: +2575.38
+Generation: 418
+Best Fit: +2575.38
+Generation: 419
+Best Fit: +2575.38
+Generation: 420
+Best Fit: +2575.38
+Generation: 421
+Best Fit: +2575.38
+Generation: 422
+Best Fit: +2575.38
+Generation: 423
+Best Fit: +2575.38
+Generation: 424
+Best Fit: +2575.38
+Generation: 425
+Best Fit: +2575.38
+Generation: 426
+Best Fit: +2575.38
+Generation: 427
+Best Fit: +2575.38
+Generation: 428
+Best Fit: +2575.38
+Generation: 429
+Best Fit: +2575.38
+Generation: 430
+Best Fit: +2575.38
+Generation: 431
+Best Fit: +2575.38
+Generation: 432
+Best Fit: +2575.38
+Generation: 433
+Best Fit: +2575.38
+Generation: 434
+Best Fit: +2575.38
+Generation: 435
+Best Fit: +2575.38
+Generation: 436
+Best Fit: +2575.38
+Generation: 437
+Best Fit: +2575.38
+Generation: 438
+Best Fit: +2575.38
+Generation: 439
+Best Fit: +2575.38
+Generation: 440
+Best Fit: +2575.38
+Generation: 441
+Best Fit: +2575.38
+Generation: 442
+Best Fit: +2575.38
+Generation: 443
+Best Fit: +2575.38
+Generation: 444
+Best Fit: +2575.38
+Generation: 445
+Best Fit: +2575.38
+Generation: 446
+Best Fit: +2575.38
+Generation: 447
+Best Fit: +2575.38
+Generation: 448
+Best Fit: +2575.38
+Generation: 449
+Best Fit: +2575.38
+Generation: 450
+Best Fit: +2575.38
+Generation: 451
+Best Fit: +2575.38
+Generation: 452
+Best Fit: +2575.38
+Generation: 453
+Best Fit: +2575.38
+Generation: 454
+Best Fit: +2575.38
+Generation: 455
+Best Fit: +2575.38
+Generation: 456
+Best Fit: +2575.38
+Generation: 457
+Best Fit: +2575.38
+Generation: 458
+Best Fit: +2575.38
+Generation: 459
+Best Fit: +2575.38
+Generation: 460
+Best Fit: +2575.38
+Generation: 461
+Best Fit: +2575.38
+Generation: 462
+Best Fit: +2575.38
+Generation: 463
+Best Fit: +2575.38
+Generation: 464
+Best Fit: +2575.38
+Generation: 465
+Best Fit: +2575.38
+Generation: 466
+Best Fit: +2575.38
+Generation: 467
+Best Fit: +2575.38
+Generation: 468
+Best Fit: +2575.38
+Generation: 469
+Best Fit: +2575.38
+Generation: 470
+Best Fit: +2575.38
+Generation: 471
+Best Fit: +2575.38
+Generation: 472
+Best Fit: +2575.38
+Generation: 473
+Best Fit: +2575.38
+Generation: 474
+Best Fit: +2575.38
+Generation: 475
+Best Fit: +2575.38
+Generation: 476
+Best Fit: +2575.38
+Generation: 477
+Best Fit: +2575.38
+Generation: 478
+Best Fit: +2575.38
+Generation: 479
+Best Fit: +2575.38
+Generation: 480
+Best Fit: +2575.38
+Generation: 481
+Best Fit: +2575.38
+Generation: 482
+Best Fit: +2575.38
+Generation: 483
+Best Fit: +2575.38
+Generation: 484
+Best Fit: +2575.38
+Generation: 485
+Best Fit: +2575.38
+Generation: 486
+Best Fit: +2575.38
+Generation: 487
+Best Fit: +2575.38
+Generation: 488
+Best Fit: +2575.38
+Generation: 489
+Best Fit: +2575.38
+Generation: 490
+Best Fit: +2575.38
+Generation: 491
+Best Fit: +2575.38
+Generation: 492
+Best Fit: +2575.38
+Generation: 493
+Best Fit: +2575.38
+Generation: 494
+Best Fit: +2575.38
+Generation: 495
+Best Fit: +2575.38
+Generation: 496
+Best Fit: +2575.38
+Generation: 497
+Best Fit: +2575.38
+Generation: 498
+Best Fit: +2575.38
+Generation: 499
+Best Fit: +2575.38
+Generation: 500
+Best Fit: +2575.38
+Generation: 501
+Best Fit: +2575.38
+Generation: 502
+Best Fit: +2575.38
+Generation: 503
+Best Fit: +2575.38
+Generation: 504
+Best Fit: +2575.38
+Generation: 505
+Best Fit: +2575.38
+Generation: 506
+Best Fit: +2575.38
+Generation: 507
+Best Fit: +2575.38
+Generation: 508
+Best Fit: +2575.38
+Generation: 509
+Best Fit: +2575.38
+Generation: 510
+Best Fit: +2575.38
+Generation: 511
+Best Fit: +2575.38
+Generation: 512
+Best Fit: +2575.38
+Generation: 513
+Best Fit: +2575.38
+Generation: 514
+Best Fit: +2575.38
+Generation: 515
+Best Fit: +2575.38
+Generation: 516
+Best Fit: +2575.38
+Generation: 517
+Best Fit: +2575.38
+Generation: 518
+Best Fit: +2575.38
+Generation: 519
+Best Fit: +2575.38
+Generation: 520
+Best Fit: +2575.38
+Generation: 521
+Best Fit: +2575.38
+Generation: 522
+Best Fit: +2575.38
+Generation: 523
+Best Fit: +2575.38
+Generation: 524
+Best Fit: +2575.38
+Generation: 525
+Best Fit: +2575.38
+Generation: 526
+Best Fit: +2575.38
+Generation: 527
+Best Fit: +2575.38
+Generation: 528
+Best Fit: +2575.38
+Generation: 529
+Best Fit: +2575.38
+Generation: 530
+Best Fit: +2575.38
+Generation: 531
+Best Fit: +2575.38
+Generation: 532
+Best Fit: +2575.38
+Generation: 533
+Best Fit: +2575.38
+Generation: 534
+Best Fit: +2575.38
+Generation: 535
+Best Fit: +2575.38
+Generation: 536
+Best Fit: +2575.38
+Generation: 537
+Best Fit: +2575.38
+Generation: 538
+Best Fit: +2575.38
+Generation: 539
+Best Fit: +2575.38
+Generation: 540
+Best Fit: +2575.38
+Generation: 541
+Best Fit: +2575.38
+Generation: 542
+Best Fit: +2575.38
+Generation: 543
+Best Fit: +2575.38
+Generation: 544
+Best Fit: +2575.38
+Generation: 545
+Best Fit: +2575.38
+Generation: 546
+Best Fit: +2575.38
+Generation: 547
+Best Fit: +2575.38
+Generation: 548
+Best Fit: +2575.38
+Generation: 549
+Best Fit: +2575.38
+Generation: 550
+Best Fit: +2575.38
+Generation: 551
+Best Fit: +2575.38
+Generation: 552
+Best Fit: +2575.38
+Generation: 553
+Best Fit: +2575.38
+Generation: 554
+Best Fit: +2575.38
+Generation: 555
+Best Fit: +2575.38
+Generation: 556
+Best Fit: +2575.38
+Generation: 557
+Best Fit: +2575.38
+Generation: 558
+Best Fit: +2575.38
+Generation: 559
+Best Fit: +2575.38
+Generation: 560
+Best Fit: +2575.38
+Generation: 561
+Best Fit: +2575.38
+Generation: 562
+Best Fit: +2575.38
+Generation: 563
+Best Fit: +2575.38
+Generation: 564
+Best Fit: +2575.38
+Generation: 565
+Best Fit: +2575.38
+Generation: 566
+Best Fit: +2575.38
+Generation: 567
+Best Fit: +2575.38
+Generation: 568
+Best Fit: +2575.38
+Generation: 569
+Best Fit: +2575.38
+Generation: 570
+Best Fit: +2575.38
+Generation: 571
+Best Fit: +2575.38
+Generation: 572
+Best Fit: +2575.38
+Generation: 573
+Best Fit: +2575.38
+Generation: 574
+Best Fit: +2575.38
+Generation: 575
+Best Fit: +2575.38
+Generation: 576
+Best Fit: +2575.38
+Generation: 577
+Best Fit: +2575.38
+Generation: 578
+Best Fit: +2575.38
+Generation: 579
+Best Fit: +2575.38
+Generation: 580
+Best Fit: +2575.38
+Generation: 581
+Best Fit: +2575.38
+Generation: 582
+Best Fit: +2575.38
+Generation: 583
+Best Fit: +2575.38
+Generation: 584
+Best Fit: +2575.38
+Generation: 585
+Best Fit: +2575.38
+Generation: 586
+Best Fit: +2575.38
+Generation: 587
+Best Fit: +2575.38
+Generation: 588
+Best Fit: +2575.38
+Generation: 589
+Best Fit: +2575.38
+Generation: 590
+Best Fit: +2575.38
+Generation: 591
+Best Fit: +2575.38
+Generation: 592
+Best Fit: +2575.38
+Generation: 593
+Best Fit: +2575.38
+Generation: 594
+Best Fit: +2575.38
+Generation: 595
+Best Fit: +2575.38
+Generation: 596
+Best Fit: +2575.38
+Generation: 597
+Best Fit: +2575.38
+Generation: 598
+Best Fit: +2575.38
+Generation: 599
+Best Fit: +2575.38
+Generation: 600
+Best Fit: +2575.38
+Generation: 601
+Best Fit: +2575.38
+Generation: 602
+Best Fit: +2575.38
+Generation: 603
+Best Fit: +2575.38
+Generation: 604
+Best Fit: +2575.38
+Generation: 605
+Best Fit: +2575.38
+Generation: 606
+Best Fit: +2575.38
+Generation: 607
+Best Fit: +2575.38
+Generation: 608
+Best Fit: +2575.38
+Generation: 609
+Best Fit: +2575.38
+Generation: 610
+Best Fit: +2575.38
+Generation: 611
+Best Fit: +2575.38
+Generation: 612
+Best Fit: +2575.38
+Generation: 613
+Best Fit: +2575.38
+Generation: 614
+Best Fit: +2575.38
+Generation: 615
+Best Fit: +2575.38
+Generation: 616
+Best Fit: +2575.38
+Generation: 617
+Best Fit: +2575.38
+Generation: 618
+Best Fit: +2575.38
+Generation: 619
+Best Fit: +2575.38
+Generation: 620
+Best Fit: +2575.38
+Generation: 621
+Best Fit: +2575.38
+Generation: 622
+Best Fit: +2575.38
+Generation: 623
+Best Fit: +2575.38
+Generation: 624
+Best Fit: +2575.38
+Generation: 625
+Best Fit: +2575.38
+Generation: 626
+Best Fit: +2575.38
+Generation: 627
+Best Fit: +2575.38
+Generation: 628
+Best Fit: +2575.38
+Generation: 629
+Best Fit: +2575.38
+Generation: 630
+Best Fit: +2575.38
+Generation: 631
+Best Fit: +2575.38
+Generation: 632
+Best Fit: +2575.38
+Generation: 633
+Best Fit: +2575.38
+Generation: 634
+Best Fit: +2575.38
+Generation: 635
+Best Fit: +2575.38
+Generation: 636
+Best Fit: +2575.38
+Generation: 637
+Best Fit: +2575.38
+Generation: 638
+Best Fit: +2575.38
+Generation: 639
+Best Fit: +2575.38
+Generation: 640
+Best Fit: +2575.38
+Generation: 641
+Best Fit: +2575.38
+Generation: 642
+Best Fit: +2575.38
+Generation: 643
+Best Fit: +2575.38
+Generation: 644
+Best Fit: +2575.38
+Generation: 645
+Best Fit: +2575.38
+Generation: 646
+Best Fit: +2575.38
+Generation: 647
+Best Fit: +2575.38
+Generation: 648
+Best Fit: +2575.38
+Generation: 649
+Best Fit: +2575.38
+Generation: 650
+Best Fit: +2575.38
+Generation: 651
+Best Fit: +2575.38
+Generation: 652
+Best Fit: +2575.38
+Generation: 653
+Best Fit: +2575.38
+Generation: 654
+Best Fit: +2575.38
+Generation: 655
+Best Fit: +2575.38
+Generation: 656
+Best Fit: +2575.38
+Generation: 657
+Best Fit: +2575.38
+Generation: 658
+Best Fit: +2575.38
+Generation: 659
+Best Fit: +2575.38
+Generation: 660
+Best Fit: +2575.38
+Generation: 661
+Best Fit: +2575.38
+Generation: 662
+Best Fit: +2575.38
+Generation: 663
+Best Fit: +2575.38
+Generation: 664
+Best Fit: +2575.38
+Generation: 665
+Best Fit: +2575.38
+Generation: 666
+Best Fit: +2575.38
+Generation: 667
+Best Fit: +2575.38
+Generation: 668
+Best Fit: +2575.38
+Generation: 669
+Best Fit: +2575.38
+Generation: 670
+Best Fit: +2575.38
+Generation: 671
+Best Fit: +2575.38
+Generation: 672
+Best Fit: +2575.38
+Generation: 673
+Best Fit: +2575.38
+Generation: 674
+Best Fit: +2575.38
+Generation: 675
+Best Fit: +2575.38
+Generation: 676
+Best Fit: +2575.38
+Generation: 677
+Best Fit: +2575.38
+Generation: 678
+Best Fit: +2575.38
+Generation: 679
+Best Fit: +2575.38
+Generation: 680
+Best Fit: +2575.38
+Generation: 681
+Best Fit: +2575.38
+Generation: 682
+Best Fit: +2575.38
+Generation: 683
+Best Fit: +2575.38
+Generation: 684
+Best Fit: +2575.38
+Generation: 685
+Best Fit: +2575.38
+Generation: 686
+Best Fit: +2575.38
+Generation: 687
+Best Fit: +2575.38
+Generation: 688
+Best Fit: +2575.38
+Generation: 689
+Best Fit: +2575.38
+Generation: 690
+Best Fit: +2575.38
+Generation: 691
+Best Fit: +2575.38
+Generation: 692
+Best Fit: +2575.38
+Generation: 693
+Best Fit: +2575.38
+Generation: 694
+Best Fit: +2575.38
+Generation: 695
+Best Fit: +2575.38
+Generation: 696
+Best Fit: +2575.38
+Generation: 697
+Best Fit: +2575.38
+Generation: 698
+Best Fit: +2575.38
+Generation: 699
+Best Fit: +2575.38
+Generation: 700
+Best Fit: +2575.38
+Generation: 701
+Best Fit: +2575.38
+Generation: 702
+Best Fit: +2575.38
+Generation: 703
+Best Fit: +2575.38
+Generation: 704
+Best Fit: +2575.38
+Generation: 705
+Best Fit: +2575.38
+Generation: 706
+Best Fit: +2575.38
+Generation: 707
+Best Fit: +2575.38
+Generation: 708
+Best Fit: +2575.38
+Generation: 709
+Best Fit: +2575.38
+Generation: 710
+Best Fit: +2575.38
+Generation: 711
+Best Fit: +2575.38
+Generation: 712
+Best Fit: +2575.38
+Generation: 713
+Best Fit: +2575.38
+Generation: 714
+Best Fit: +2575.38
+Generation: 715
+Best Fit: +2575.38
+Generation: 716
+Best Fit: +2575.38
+Generation: 717
+Best Fit: +2575.38
+Generation: 718
+Best Fit: +2575.38
+Generation: 719
+Best Fit: +2575.38
+Generation: 720
+Best Fit: +2575.38
+Generation: 721
+Best Fit: +2575.38
+Generation: 722
+Best Fit: +2575.38
+Generation: 723
+Best Fit: +2575.38
+Generation: 724
+Best Fit: +2575.38
+Generation: 725
+Best Fit: +2575.38
+Generation: 726
+Best Fit: +2575.38
+Generation: 727
+Best Fit: +2575.38
+Generation: 728
+Best Fit: +2575.38
+Generation: 729
+Best Fit: +2575.38
+Generation: 730
+Best Fit: +2575.38
+Generation: 731
+Best Fit: +2575.38
+Generation: 732
+Best Fit: +2575.38
+Generation: 733
+Best Fit: +2575.38
+Generation: 734
+Best Fit: +2575.38
+Generation: 735
+Best Fit: +2575.38
+Generation: 736
+Best Fit: +2575.38
+Generation: 737
+Best Fit: +2575.38
+Generation: 738
+Best Fit: +2575.38
+Generation: 739
+Best Fit: +2575.38
+Generation: 740
+Best Fit: +2575.38
+Generation: 741
+Best Fit: +2575.38
+Generation: 742
+Best Fit: +2575.38
+Generation: 743
+Best Fit: +2575.38
+Generation: 744
+Best Fit: +2575.38
+Generation: 745
+Best Fit: +2575.38
+Generation: 746
+Best Fit: +2575.38
+Generation: 747
+Best Fit: +2575.38
+Generation: 748
+Best Fit: +2575.38
+Generation: 749
+Best Fit: +2575.38
+Generation: 750
+Best Fit: +2575.38
+Generation: 751
+Best Fit: +2575.38
+Generation: 752
+Best Fit: +2575.38
+Generation: 753
+Best Fit: +2575.38
+Generation: 754
+Best Fit: +2575.38
+Generation: 755
+Best Fit: +2575.38
+Generation: 756
+Best Fit: +2575.38
+Generation: 757
+Best Fit: +2575.38
+Generation: 758
+Best Fit: +2575.38
+Generation: 759
+Best Fit: +2575.38
+Generation: 760
+Best Fit: +2575.38
+Generation: 761
+Best Fit: +2575.38
+Generation: 762
+Best Fit: +2575.38
+Generation: 763
+Best Fit: +2575.38
+Generation: 764
+Best Fit: +2575.38
+Generation: 765
+Best Fit: +2575.38
+Generation: 766
+Best Fit: +2575.38
+Generation: 767
+Best Fit: +2575.38
+Generation: 768
+Best Fit: +2575.38
+Generation: 769
+Best Fit: +2575.38
+Generation: 770
+Best Fit: +2575.38
+Generation: 771
+Best Fit: +2575.38
+Generation: 772
+Best Fit: +2575.38
+Generation: 773
+Best Fit: +2575.38
+Generation: 774
+Best Fit: +2575.38
+Generation: 775
+Best Fit: +2575.38
+Generation: 776
+Best Fit: +2575.38
+Generation: 777
+Best Fit: +2575.38
+Generation: 778
+Best Fit: +2575.38
+Generation: 779
+Best Fit: +2575.38
+Generation: 780
+Best Fit: +2575.38
+Generation: 781
+Best Fit: +2575.38
+Generation: 782
+Best Fit: +2575.38
+Generation: 783
+Best Fit: +2575.38
+Generation: 784
+Best Fit: +2575.38
+Generation: 785
+Best Fit: +2575.38
+Generation: 786
+Best Fit: +2575.38
+Generation: 787
+Best Fit: +2575.38
+Generation: 788
+Best Fit: +2575.38
+Generation: 789
+Best Fit: +2575.38
+Generation: 790
+Best Fit: +2575.38
+Generation: 791
+Best Fit: +2575.38
+Generation: 792
+Best Fit: +2575.38
+Generation: 793
+Best Fit: +2575.38
+Generation: 794
+Best Fit: +2575.38
+Generation: 795
+Best Fit: +2575.38
+Generation: 796
+Best Fit: +2575.38
+Generation: 797
+Best Fit: +2575.38
+Generation: 798
+Best Fit: +2575.38
+Generation: 799
+Best Fit: +2575.38
+Generation: 800
+Best Fit: +2575.38
+Generation: 801
+Best Fit: +2575.38
+Generation: 802
+Best Fit: +2575.38
+Generation: 803
+Best Fit: +2575.38
+Generation: 804
+Best Fit: +2575.38
+Generation: 805
+Best Fit: +2575.38
+Generation: 806
+Best Fit: +2575.38
+Generation: 807
+Best Fit: +2575.38
+Generation: 808
+Best Fit: +2575.38
+Generation: 809
+Best Fit: +2575.38
+Generation: 810
+Best Fit: +2575.38
+Generation: 811
+Best Fit: +2575.38
+Generation: 812
+Best Fit: +2575.38
+Generation: 813
+Best Fit: +2575.38
+Generation: 814
+Best Fit: +2575.38
+Generation: 815
+Best Fit: +2575.38
+Generation: 816
+Best Fit: +2575.38
+Generation: 817
+Best Fit: +2575.38
+Generation: 818
+Best Fit: +2575.38
+Generation: 819
+Best Fit: +2575.38
+Generation: 820
+Best Fit: +2575.38
+Generation: 821
+Best Fit: +2575.38
+Generation: 822
+Best Fit: +2575.38
+Generation: 823
+Best Fit: +2575.38
+Generation: 824
+Best Fit: +2575.38
+Generation: 825
+Best Fit: +2575.38
+Generation: 826
+Best Fit: +2575.38
+Generation: 827
+Best Fit: +2575.38
+Generation: 828
+Best Fit: +2575.38
+Generation: 829
+Best Fit: +2575.38
+Generation: 830
+Best Fit: +2575.38
+Generation: 831
+Best Fit: +2575.38
+Generation: 832
+Best Fit: +2575.38
+Generation: 833
+Best Fit: +2575.38
+Generation: 834
+Best Fit: +2575.38
+Generation: 835
+Best Fit: +2575.38
+Generation: 836
+Best Fit: +2575.38
+Generation: 837
+Best Fit: +2575.38
+Generation: 838
+Best Fit: +2575.38
+Generation: 839
+Best Fit: +2575.38
+Generation: 840
+Best Fit: +2575.38
+Generation: 841
+Best Fit: +2575.38
+Generation: 842
+Best Fit: +2575.38
+Generation: 843
+Best Fit: +2575.38
+Generation: 844
+Best Fit: +2575.38
+Generation: 845
+Best Fit: +2575.38
+Generation: 846
+Best Fit: +2575.38
+Generation: 847
+Best Fit: +2575.38
+Generation: 848
+Best Fit: +2575.38
+Generation: 849
+Best Fit: +2575.38
+Generation: 850
+Best Fit: +2575.38
+Generation: 851
+Best Fit: +2575.38
+Generation: 852
+Best Fit: +2575.38
+Generation: 853
+Best Fit: +2575.38
+Generation: 854
+Best Fit: +2575.38
+Generation: 855
+Best Fit: +2575.38
+Generation: 856
+Best Fit: +2575.38
+Generation: 857
+Best Fit: +2575.38
+Generation: 858
+Best Fit: +2575.38
+Generation: 859
+Best Fit: +2575.38
+Generation: 860
+Best Fit: +2575.38
+Generation: 861
+Best Fit: +2575.38
+Generation: 862
+Best Fit: +2575.38
+Generation: 863
+Best Fit: +2575.38
+Generation: 864
+Best Fit: +2575.38
+Generation: 865
+Best Fit: +2575.38
+Generation: 866
+Best Fit: +2575.38
+Generation: 867
+Best Fit: +2575.38
+Generation: 868
+Best Fit: +2575.38
+Generation: 869
+Best Fit: +2575.38
+Generation: 870
+Best Fit: +2575.38
+Generation: 871
+Best Fit: +2575.38
+Generation: 872
+Best Fit: +2575.38
+Generation: 873
+Best Fit: +2575.38
+Generation: 874
+Best Fit: +2575.38
+Generation: 875
+Best Fit: +2575.38
+Generation: 876
+Best Fit: +2575.38
+Generation: 877
+Best Fit: +2575.38
+Generation: 878
+Best Fit: +2575.38
+Generation: 879
+Best Fit: +2575.38
+Generation: 880
+Best Fit: +2575.38
+Generation: 881
+Best Fit: +2575.38
+Generation: 882
+Best Fit: +2575.38
+Generation: 883
+Best Fit: +2575.38
+Generation: 884
+Best Fit: +2575.38
+Generation: 885
+Best Fit: +2575.38
+Generation: 886
+Best Fit: +2575.38
+Generation: 887
+Best Fit: +2575.38
+Generation: 888
+Best Fit: +2575.38
+Generation: 889
+Best Fit: +2575.38
+Generation: 890
+Best Fit: +2575.38
+Generation: 891
+Best Fit: +2575.38
+Generation: 892
+Best Fit: +2575.38
+Generation: 893
+Best Fit: +2575.38
+Generation: 894
+Best Fit: +2575.38
+Generation: 895
+Best Fit: +2575.38
+Generation: 896
+Best Fit: +2575.38
+Generation: 897
+Best Fit: +2575.38
+Generation: 898
+Best Fit: +2575.38
+Generation: 899
+Best Fit: +2575.38
+Generation: 900
+Best Fit: +2575.38
+Generation: 901
+Best Fit: +2575.38
+Generation: 902
+Best Fit: +2575.38
+Generation: 903
+Best Fit: +2575.38
+Generation: 904
+Best Fit: +2575.38
+Generation: 905
+Best Fit: +2575.38
+Generation: 906
+Best Fit: +2575.38
+Generation: 907
+Best Fit: +2575.38
+Generation: 908
+Best Fit: +2575.38
+Generation: 909
+Best Fit: +2575.38
+Generation: 910
+Best Fit: +2575.38
+Generation: 911
+Best Fit: +2575.38
+Generation: 912
+Best Fit: +2575.38
+Generation: 913
+Best Fit: +2575.38
+Generation: 914
+Best Fit: +2575.38
+Generation: 915
+Best Fit: +2575.38
+Generation: 916
+Best Fit: +2575.38
+Generation: 917
+Best Fit: +2575.38
+Generation: 918
+Best Fit: +2575.38
+Generation: 919
+Best Fit: +2575.38
+Generation: 920
+Best Fit: +2575.38
+Generation: 921
+Best Fit: +2575.38
+Generation: 922
+Best Fit: +2575.38
+Generation: 923
+Best Fit: +2575.38
+Generation: 924
+Best Fit: +2575.38
+Generation: 925
+Best Fit: +2575.38
+Generation: 926
+Best Fit: +2575.38
+Generation: 927
+Best Fit: +2575.38
+Generation: 928
+Best Fit: +2575.38
+Generation: 929
+Best Fit: +2575.38
+Generation: 930
+Best Fit: +2575.38
+Generation: 931
+Best Fit: +2575.38
+Generation: 932
+Best Fit: +2575.38
+Generation: 933
+Best Fit: +2575.38
+Generation: 934
+Best Fit: +2575.38
+Generation: 935
+Best Fit: +2575.38
+Generation: 936
+Best Fit: +2575.38
+Generation: 937
+Best Fit: +2575.38
+Generation: 938
+Best Fit: +2575.38
+Generation: 939
+Best Fit: +2575.38
+Generation: 940
+Best Fit: +2575.38
+Generation: 941
+Best Fit: +2575.38
+Generation: 942
+Best Fit: +2575.38
+Generation: 943
+Best Fit: +2575.38
+Generation: 944
+Best Fit: +2575.38
+Generation: 945
+Best Fit: +2575.38
+Generation: 946
+Best Fit: +2575.38
+Generation: 947
+Best Fit: +2575.38
+Generation: 948
+Best Fit: +2575.38
+Generation: 949
+Best Fit: +2575.38
+Generation: 950
+Best Fit: +2575.38
+Generation: 951
+Best Fit: +2575.38
+Generation: 952
+Best Fit: +2575.38
+Generation: 953
+Best Fit: +2575.38
+Generation: 954
+Best Fit: +2575.38
+Generation: 955
+Best Fit: +2575.38
+Generation: 956
+Best Fit: +2575.38
+Generation: 957
+Best Fit: +2575.38
+Generation: 958
+Best Fit: +2575.38
+Generation: 959
+Best Fit: +2575.38
+Generation: 960
+Best Fit: +2575.38
+Generation: 961
+Best Fit: +2575.38
+Generation: 962
+Best Fit: +2575.38
+Generation: 963
+Best Fit: +2575.38
+Generation: 964
+Best Fit: +2575.38
+Generation: 965
+Best Fit: +2575.38
+Generation: 966
+Best Fit: +2575.38
+Generation: 967
+Best Fit: +2575.38
+Generation: 968
+Best Fit: +2575.38
+Generation: 969
+Best Fit: +2575.38
+Generation: 970
+Best Fit: +2575.38
+Generation: 971
+Best Fit: +2575.38
+Generation: 972
+Best Fit: +2575.38
+Generation: 973
+Best Fit: +2575.38
+Generation: 974
+Best Fit: +2575.38
+Generation: 975
+Best Fit: +2575.38
+Generation: 976
+Best Fit: +2575.38
+Generation: 977
+Best Fit: +2575.38
+Generation: 978
+Best Fit: +2575.38
+Generation: 979
+Best Fit: +2575.38
+Generation: 980
+Best Fit: +2575.38
+Generation: 981
+Best Fit: +2575.38
+Generation: 982
+Best Fit: +2575.38
+Generation: 983
+Best Fit: +2575.38
+Generation: 984
+Best Fit: +2575.38
+Generation: 985
+Best Fit: +2575.38
+Generation: 986
+Best Fit: +2575.38
+Generation: 987
+Best Fit: +2575.38
+Generation: 988
+Best Fit: +2575.38
+Generation: 989
+Best Fit: +2575.38
+Generation: 990
+Best Fit: +2575.38
+Generation: 991
+Best Fit: +2575.38
+Generation: 992
+Best Fit: +2575.38
+Generation: 993
+Best Fit: +2575.38
+Generation: 994
+Best Fit: +2575.38
+Generation: 995
+Best Fit: +2575.38
+Generation: 996
+Best Fit: +2575.38
+Generation: 997
+Best Fit: +2575.38
+Generation: 998
+Best Fit: +2575.38
+Generation: 999
+Best Fit: +2575.38
+Generation: 1000
+Best Fit: +2575.38
+Generation: 1001
+Best Fit: +2575.38
+Generation: 1002
+Best Fit: +2575.38
+Generation: 1003
+Best Fit: +2575.38
+Generation: 1004
+Best Fit: +2575.38
+Generation: 1005
+Best Fit: +2575.38
+Generation: 1006
+Best Fit: +2575.38
+Generation: 1007
+Best Fit: +2575.38
+Generation: 1008
+Best Fit: +2575.38
+Generation: 1009
+Best Fit: +2575.38
+Generation: 1010
+Best Fit: +2575.38
+Generation: 1011
+Best Fit: +2575.38
+Generation: 1012
+Best Fit: +2575.38
+Generation: 1013
+Best Fit: +2575.38
+Generation: 1014
+Best Fit: +2575.38
+Generation: 1015
+Best Fit: +2575.38
+Generation: 1016
+Best Fit: +2575.38
+Generation: 1017
+Best Fit: +2575.38
+Generation: 1018
+Best Fit: +2575.38
+Generation: 1019
+Best Fit: +2575.38
+Generation: 1020
+Best Fit: +2575.38
+Generation: 1021
+Best Fit: +2575.38
+Generation: 1022
+Best Fit: +2575.38
+Generation: 1023
+Best Fit: +2575.38
+Generation: 1024
+Best Fit: +2575.38
+Generation: 1025
+Best Fit: +2575.38
+Generation: 1026
+Best Fit: +2575.38
+Generation: 1027
+Best Fit: +2575.38
+Generation: 1028
+Best Fit: +2575.38
+Generation: 1029
+Best Fit: +2575.38
+Generation: 1030
+Best Fit: +2575.38
+Generation: 1031
+Best Fit: +2575.38
+Generation: 1032
+Best Fit: +2575.38
+Generation: 1033
+Best Fit: +2575.38
+Generation: 1034
+Best Fit: +2575.38
+Generation: 1035
+Best Fit: +2575.38
+Generation: 1036
+Best Fit: +2575.38
+Generation: 1037
+Best Fit: +2575.38
+Generation: 1038
+Best Fit: +2575.38
+Generation: 1039
+Best Fit: +2575.38
+Generation: 1040
+Best Fit: +2575.38
+Generation: 1041
+Best Fit: +2575.38
+Generation: 1042
+Best Fit: +2575.38
+Generation: 1043
+Best Fit: +2575.38
+Generation: 1044
+Best Fit: +2575.38
+Generation: 1045
+Best Fit: +2575.38
+Generation: 1046
+Best Fit: +2575.38
+Generation: 1047
+Best Fit: +2575.38
+Generation: 1048
+Best Fit: +2575.38
+Generation: 1049
+Best Fit: +2575.38
+Generation: 1050
+Best Fit: +2575.38
+Generation: 1051
+Best Fit: +2575.38
+Generation: 1052
+Best Fit: +2575.38
+Generation: 1053
+Best Fit: +2575.38
+Generation: 1054
+Best Fit: +2575.38
+Generation: 1055
+Best Fit: +2575.38
+Generation: 1056
+Best Fit: +2575.38
+Generation: 1057
+Best Fit: +2575.38
+Generation: 1058
+Best Fit: +2575.38
+Generation: 1059
+Best Fit: +2575.38
+Generation: 1060
+Best Fit: +2575.38
+Generation: 1061
+Best Fit: +2575.38
+Generation: 1062
+Best Fit: +2575.38
+Generation: 1063
+Best Fit: +2575.38
+Generation: 1064
+Best Fit: +2575.38
+Generation: 1065
+Best Fit: +2575.38
+Generation: 1066
+Best Fit: +2575.38
+Generation: 1067
+Best Fit: +2575.38
+Generation: 1068
+Best Fit: +2575.38
+Generation: 1069
+Best Fit: +2575.38
+Generation: 1070
+Best Fit: +2575.38
+Generation: 1071
+Best Fit: +2575.38
+Generation: 1072
+Best Fit: +2575.38
+Generation: 1073
+Best Fit: +2575.38
+Generation: 1074
+Best Fit: +2575.38
+Generation: 1075
+Best Fit: +2575.38
+Generation: 1076
+Best Fit: +2575.38
+Generation: 1077
+Best Fit: +2575.38
+Generation: 1078
+Best Fit: +2575.38
+Generation: 1079
+Best Fit: +2575.38
+Generation: 1080
+Best Fit: +2575.38
+Generation: 1081
+Best Fit: +2575.38
+Generation: 1082
+Best Fit: +2575.38
+Generation: 1083
+Best Fit: +2575.38
+Generation: 1084
+Best Fit: +2575.38
+Generation: 1085
+Best Fit: +2575.38
+Generation: 1086
+Best Fit: +2575.38
+Generation: 1087
+Best Fit: +2575.38
+Generation: 1088
+Best Fit: +2575.38
+Generation: 1089
+Best Fit: +2575.38
+Generation: 1090
+Best Fit: +2575.38
+Generation: 1091
+Best Fit: +2575.38
+Generation: 1092
+Best Fit: +2575.38
+Generation: 1093
+Best Fit: +2575.38
+Generation: 1094
+Best Fit: +2575.38
+Generation: 1095
+Best Fit: +2575.38
+Generation: 1096
+Best Fit: +2575.38
+Generation: 1097
+Best Fit: +2575.38
+Generation: 1098
+Best Fit: +2575.38
+Generation: 1099
+Best Fit: +2575.38
+Generation: 1100
+Best Fit: +2575.38
+Generation: 1101
+Best Fit: +2575.38
+Generation: 1102
+Best Fit: +2575.38
+Generation: 1103
+Best Fit: +2575.38
+Generation: 1104
+Best Fit: +2575.38
+Generation: 1105
+Best Fit: +2575.38
+Generation: 1106
+Best Fit: +2575.38
+Generation: 1107
+Best Fit: +2575.38
+Generation: 1108
+Best Fit: +2575.38
+Generation: 1109
+Best Fit: +2575.38
+Generation: 1110
+Best Fit: +2575.38
+Generation: 1111
+Best Fit: +2575.38
+Generation: 1112
+Best Fit: +2575.38
+Generation: 1113
+Best Fit: +2575.38
+Generation: 1114
+Best Fit: +2575.38
+Generation: 1115
+Best Fit: +2575.38
+Generation: 1116
+Best Fit: +2575.38
+Generation: 1117
+Best Fit: +2575.38
+Generation: 1118
+Best Fit: +2575.38
+Generation: 1119
+Best Fit: +2575.38
+Generation: 1120
+Best Fit: +2575.38
+Generation: 1121
+Best Fit: +2575.38
+Generation: 1122
+Best Fit: +2575.38
+Generation: 1123
+Best Fit: +2575.38
+Generation: 1124
+Best Fit: +2575.38
+Generation: 1125
+Best Fit: +2575.38
+Generation: 1126
+Best Fit: +2575.38
+Generation: 1127
+Best Fit: +2575.38
+Generation: 1128
+Best Fit: +2575.38
+Generation: 1129
+Best Fit: +2575.38
+Generation: 1130
+Best Fit: +2575.38
+Generation: 1131
+Best Fit: +2575.38
+Generation: 1132
+Best Fit: +2575.38
+Generation: 1133
+Best Fit: +2575.38
+Generation: 1134
+Best Fit: +2575.38
+Generation: 1135
+Best Fit: +2575.38
+Generation: 1136
+Best Fit: +2575.38
+Generation: 1137
+Best Fit: +2575.38
+Generation: 1138
+Best Fit: +2575.38
+Generation: 1139
+Best Fit: +2575.38
+Generation: 1140
+Best Fit: +2575.38
+Generation: 1141
+Best Fit: +2575.38
+Generation: 1142
+Best Fit: +2575.38
+Generation: 1143
+Best Fit: +2575.38
+Generation: 1144
+Best Fit: +2575.38
+Generation: 1145
+Best Fit: +2575.38
+Generation: 1146
+Best Fit: +2575.38
+Generation: 1147
+Best Fit: +2575.38
+Generation: 1148
+Best Fit: +2575.38
+Generation: 1149
+Best Fit: +2575.38
+Generation: 1150
+Best Fit: +2575.38
+Generation: 1151
+Best Fit: +2575.38
+Generation: 1152
+Best Fit: +2575.38
+Generation: 1153
+Best Fit: +2575.38
+Generation: 1154
+Best Fit: +2575.38
+Generation: 1155
+Best Fit: +2575.38
+Generation: 1156
+Best Fit: +2575.38
+Generation: 1157
+Best Fit: +2575.38
+Generation: 1158
+Best Fit: +2575.38
+Generation: 1159
+Best Fit: +2575.38
+Generation: 1160
+Best Fit: +2575.38
+Generation: 1161
+Best Fit: +2575.38
+Generation: 1162
+Best Fit: +2575.38
+Generation: 1163
+Best Fit: +2575.38
+Generation: 1164
+Best Fit: +2575.38
+Generation: 1165
+Best Fit: +2575.38
+Generation: 1166
+Best Fit: +2575.38
+Generation: 1167
+Best Fit: +2575.38
+Generation: 1168
+Best Fit: +2575.38
+Generation: 1169
+Best Fit: +2575.38
+Generation: 1170
+Best Fit: +2575.38
+Generation: 1171
+Best Fit: +2575.38
+Generation: 1172
+Best Fit: +2575.38
+Generation: 1173
+Best Fit: +2575.38
+Generation: 1174
+Best Fit: +2575.38
+Generation: 1175
+Best Fit: +2575.38
+Generation: 1176
+Best Fit: +2575.38
+Generation: 1177
+Best Fit: +2575.38
+Generation: 1178
+Best Fit: +2575.38
+Generation: 1179
+Best Fit: +2575.38
+Generation: 1180
+Best Fit: +2575.38
+Generation: 1181
+Best Fit: +2575.38
+Generation: 1182
+Best Fit: +2575.38
+Generation: 1183
+Best Fit: +2575.38
+Generation: 1184
+Best Fit: +2575.38
+Generation: 1185
+Best Fit: +2575.38
+Generation: 1186
+Best Fit: +2575.38
+Generation: 1187
+Best Fit: +2575.38
+Generation: 1188
+Best Fit: +2575.38
+Generation: 1189
+Best Fit: +2575.38
+Generation: 1190
+Best Fit: +2575.38
+Generation: 1191
+Best Fit: +2575.38
+Generation: 1192
+Best Fit: +2575.38
+Generation: 1193
+Best Fit: +2575.38
+Generation: 1194
+Best Fit: +2575.38
+Generation: 1195
+Best Fit: +2575.38
+Generation: 1196
+Best Fit: +2575.38
+Generation: 1197
+Best Fit: +2575.38
+Generation: 1198
+Best Fit: +2575.38
+Generation: 1199
+Best Fit: +2575.38
+Generation: 1200
+Best Fit: +2575.38
+Generation: 1201
+Best Fit: +2575.38
+Generation: 1202
+Best Fit: +2575.38
+Generation: 1203
+Best Fit: +2575.38
+Generation: 1204
+Best Fit: +2575.38
+Generation: 1205
+Best Fit: +2575.38
+Generation: 1206
+Best Fit: +2575.38
+Generation: 1207
+Best Fit: +2575.38
+Generation: 1208
+Best Fit: +2575.38
+Generation: 1209
+Best Fit: +2575.38
+Generation: 1210
+Best Fit: +2575.38
+Generation: 1211
+Best Fit: +2575.38
+Generation: 1212
+Best Fit: +2576.72
+Generation: 1213
+Best Fit: +2576.72
+Generation: 1214
+Best Fit: +2576.72
+Generation: 1215
+Best Fit: +2576.72
+Generation: 1216
+Best Fit: +2576.72
+Generation: 1217
+Best Fit: +2576.72
+Generation: 1218
+Best Fit: +2576.72
+Generation: 1219
+Best Fit: +2576.72
+Generation: 1220
+Best Fit: +2576.72
+Generation: 1221
+Best Fit: +2576.72
+Generation: 1222
+Best Fit: +2576.72
+Generation: 1223
+Best Fit: +2576.72
+Generation: 1224
+Best Fit: +2576.72
+Generation: 1225
+Best Fit: +2576.72
+Generation: 1226
+Best Fit: +2576.72
+Generation: 1227
+Best Fit: +2576.72
+Generation: 1228
+Best Fit: +2576.72
+Generation: 1229
+Best Fit: +2576.72
+Generation: 1230
+Best Fit: +2576.72
+Generation: 1231
+Best Fit: +2576.72
+Generation: 1232
+Best Fit: +2576.72
+Generation: 1233
+Best Fit: +2576.72
+Generation: 1234
+Best Fit: +2576.72
+Generation: 1235
+Best Fit: +2576.72
+Generation: 1236
+Best Fit: +2576.72
+Generation: 1237
+Best Fit: +2576.72
+Generation: 1238
+Best Fit: +2576.72
+Generation: 1239
+Best Fit: +2576.72
+Generation: 1240
+Best Fit: +2576.72
+Generation: 1241
+Best Fit: +2576.72
+Generation: 1242
+Best Fit: +2576.72
+Generation: 1243
+Best Fit: +2576.72
+Generation: 1244
+Best Fit: +2576.72
+Generation: 1245
+Best Fit: +2579.07
+Generation: 1246
+Best Fit: +2579.07
+Generation: 1247
+Best Fit: +2579.07
+Generation: 1248
+Best Fit: +2579.07
+Generation: 1249
+Best Fit: +2579.07
+Generation: 1250
+Best Fit: +2579.07
+Generation: 1251
+Best Fit: +2579.07
+Generation: 1252
+Best Fit: +2579.07
+Generation: 1253
+Best Fit: +2579.07
+Generation: 1254
+Best Fit: +2579.07
+Generation: 1255
+Best Fit: +2579.07
+Generation: 1256
+Best Fit: +2579.07
+Generation: 1257
+Best Fit: +2579.07
+Generation: 1258
+Best Fit: +2579.07
+Generation: 1259
+Best Fit: +2579.07
+Generation: 1260
+Best Fit: +2579.07
+Generation: 1261
+Best Fit: +2579.07
+Generation: 1262
+Best Fit: +2579.07
+Generation: 1263
+Best Fit: +2579.07
+Generation: 1264
+Best Fit: +2579.07
+Generation: 1265
+Best Fit: +2579.07
+Generation: 1266
+Best Fit: +2579.07
+Generation: 1267
+Best Fit: +2579.07
+Generation: 1268
+Best Fit: +2579.07
+Generation: 1269
+Best Fit: +2579.07
+Generation: 1270
+Best Fit: +2579.07
+Generation: 1271
+Best Fit: +2579.07
+Generation: 1272
+Best Fit: +2579.07
+Generation: 1273
+Best Fit: +2579.07
+Generation: 1274
+Best Fit: +2579.07
+Generation: 1275
+Best Fit: +2579.07
+Generation: 1276
+Best Fit: +2579.07
+Generation: 1277
+Best Fit: +2579.07
+Generation: 1278
+Best Fit: +2579.07
+Generation: 1279
+Best Fit: +2579.07
+Generation: 1280
+Best Fit: +2579.07
+Generation: 1281
+Best Fit: +2579.07
+Generation: 1282
+Best Fit: +2579.07
+Generation: 1283
+Best Fit: +2579.07
+Generation: 1284
+Best Fit: +2579.07
+Generation: 1285
+Best Fit: +2579.07
+Generation: 1286
+Best Fit: +2579.07
+Generation: 1287
+Best Fit: +2579.07
+Generation: 1288
+Best Fit: +2579.07
+Generation: 1289
+Best Fit: +2579.07
+Generation: 1290
+Best Fit: +2579.07
+Generation: 1291
+Best Fit: +2579.07
+Generation: 1292
+Best Fit: +2579.07
+Generation: 1293
+Best Fit: +2579.07
+Generation: 1294
+Best Fit: +2579.07
+Generation: 1295
+Best Fit: +2579.07
+Generation: 1296
+Best Fit: +2579.07
+Generation: 1297
+Best Fit: +2579.07
+Generation: 1298
+Best Fit: +2579.07
+Generation: 1299
+Best Fit: +2579.07
+Generation: 1300
+Best Fit: +2579.07
+Generation: 1301
+Best Fit: +2579.07
+Generation: 1302
+Best Fit: +2579.07
+Generation: 1303
+Best Fit: +2579.07
+Generation: 1304
+Best Fit: +2579.07
+Generation: 1305
+Best Fit: +2579.07
+Generation: 1306
+Best Fit: +2579.07
+Generation: 1307
+Best Fit: +2579.07
+Generation: 1308
+Best Fit: +2579.07
+Generation: 1309
+Best Fit: +2579.07
+Generation: 1310
+Best Fit: +2579.07
+Generation: 1311
+Best Fit: +2579.07
+Generation: 1312
+Best Fit: +2579.07
+Generation: 1313
+Best Fit: +2579.07
+Generation: 1314
+Best Fit: +2579.07
+Generation: 1315
+Best Fit: +2579.07
+Generation: 1316
+Best Fit: +2579.07
+Generation: 1317
+Best Fit: +2579.07
+Generation: 1318
+Best Fit: +2579.07
+Generation: 1319
+Best Fit: +2579.07
+Generation: 1320
+Best Fit: +2579.07
+Generation: 1321
+Best Fit: +2579.07
+Generation: 1322
+Best Fit: +2579.07
+Generation: 1323
+Best Fit: +2579.07
+Generation: 1324
+Best Fit: +2579.07
+Generation: 1325
+Best Fit: +2579.07
+Generation: 1326
+Best Fit: +2579.07
+Generation: 1327
+Best Fit: +2579.07
+Generation: 1328
+Best Fit: +2579.07
+Generation: 1329
+Best Fit: +2579.07
+Generation: 1330
+Best Fit: +2579.07
+Generation: 1331
+Best Fit: +2579.07
+Generation: 1332
+Best Fit: +2579.07
+Generation: 1333
+Best Fit: +2579.07
+Generation: 1334
+Best Fit: +2579.07
+Generation: 1335
+Best Fit: +2579.07
+Generation: 1336
+Best Fit: +2579.07
+Generation: 1337
+Best Fit: +2579.07
+Generation: 1338
+Best Fit: +2579.07
+Generation: 1339
+Best Fit: +2579.07
+Generation: 1340
+Best Fit: +2579.07
+Generation: 1341
+Best Fit: +2579.07
+Generation: 1342
+Best Fit: +2581.21
+Generation: 1343
+Best Fit: +2585.97
+Generation: 1344
+Best Fit: +2585.97
+Generation: 1345
+Best Fit: +2585.97
+Generation: 1346
+Best Fit: +2585.97
+Generation: 1347
+Best Fit: +2585.97
+Generation: 1348
+Best Fit: +2585.97
+Generation: 1349
+Best Fit: +2585.97
+Generation: 1350
+Best Fit: +2585.97
+Generation: 1351
+Best Fit: +2585.97
+Generation: 1352
+Best Fit: +2585.97
+Generation: 1353
+Best Fit: +2585.97
+Generation: 1354
+Best Fit: +2585.97
+Generation: 1355
+Best Fit: +2585.97
+Generation: 1356
+Best Fit: +2585.97
+Generation: 1357
+Best Fit: +2585.97
+Generation: 1358
+Best Fit: +2585.97
+Generation: 1359
+Best Fit: +2585.97
+Generation: 1360
+Best Fit: +2585.97
+Generation: 1361
+Best Fit: +2585.97
+Generation: 1362
+Best Fit: +2585.97
+Generation: 1363
+Best Fit: +2585.97
+Generation: 1364
+Best Fit: +2585.97
+Generation: 1365
+Best Fit: +2585.97
+Generation: 1366
+Best Fit: +2585.97
+Generation: 1367
+Best Fit: +2585.97
+Generation: 1368
+Best Fit: +2585.97
+Generation: 1369
+Best Fit: +2585.97
+Generation: 1370
+Best Fit: +2585.97
+Generation: 1371
+Best Fit: +2585.97
+Generation: 1372
+Best Fit: +2585.97
+Generation: 1373
+Best Fit: +2585.97
+Generation: 1374
+Best Fit: +2585.97
+Generation: 1375
+Best Fit: +2585.97
+Generation: 1376
+Best Fit: +2585.97
+Generation: 1377
+Best Fit: +2585.97
+Generation: 1378
+Best Fit: +2585.97
+Generation: 1379
+Best Fit: +2585.97
+Generation: 1380
+Best Fit: +2585.97
+Generation: 1381
+Best Fit: +2585.97
+Generation: 1382
+Best Fit: +2585.97
+Generation: 1383
+Best Fit: +2585.97
+Generation: 1384
+Best Fit: +2585.97
+Generation: 1385
+Best Fit: +2585.97
+Generation: 1386
+Best Fit: +2585.97
+Generation: 1387
+Best Fit: +2585.97
+Generation: 1388
+Best Fit: +2585.97
+Generation: 1389
+Best Fit: +2585.97
+Generation: 1390
+Best Fit: +2585.97
+Generation: 1391
+Best Fit: +2585.97
+Generation: 1392
+Best Fit: +2585.97
+Generation: 1393
+Best Fit: +2585.97
+Generation: 1394
+Best Fit: +2585.97
+Generation: 1395
+Best Fit: +2585.97
+Generation: 1396
+Best Fit: +2585.97
+Generation: 1397
+Best Fit: +2585.97
+Generation: 1398
+Best Fit: +2585.97
+Generation: 1399
+Best Fit: +2585.97
+Generation: 1400
+Best Fit: +2585.97
+Generation: 1401
+Best Fit: +2585.97
+Generation: 1402
+Best Fit: +2585.97
+Generation: 1403
+Best Fit: +2585.97
+Generation: 1404
+Best Fit: +2585.97
+Generation: 1405
+Best Fit: +2585.97
+Generation: 1406
+Best Fit: +2585.97
+Generation: 1407
+Best Fit: +2585.97
+Generation: 1408
+Best Fit: +2585.97
+Generation: 1409
+Best Fit: +2585.97
+Generation: 1410
+Best Fit: +2585.97
+Generation: 1411
+Best Fit: +2585.97
+Generation: 1412
+Best Fit: +2585.97
+Generation: 1413
+Best Fit: +2585.97
+Generation: 1414
+Best Fit: +2585.97
+Generation: 1415
+Best Fit: +2585.97
+Generation: 1416
+Best Fit: +2585.97
+Generation: 1417
+Best Fit: +2585.97
+Generation: 1418
+Best Fit: +2585.97
+Generation: 1419
+Best Fit: +2585.97
+Generation: 1420
+Best Fit: +2585.97
+Generation: 1421
+Best Fit: +2585.97
+Generation: 1422
+Best Fit: +2585.97
+Generation: 1423
+Best Fit: +2585.97
+Generation: 1424
+Best Fit: +2585.97
+Generation: 1425
+Best Fit: +2585.97
+Generation: 1426
+Best Fit: +2585.97
+Generation: 1427
+Best Fit: +2585.97
+Generation: 1428
+Best Fit: +2585.97
+Generation: 1429
+Best Fit: +2585.97
+Generation: 1430
+Best Fit: +2585.97
+Generation: 1431
+Best Fit: +2585.97
+Generation: 1432
+Best Fit: +2585.97
+Generation: 1433
+Best Fit: +2585.97
+Generation: 1434
+Best Fit: +2585.97
+Generation: 1435
+Best Fit: +2585.97
+Generation: 1436
+Best Fit: +2585.97
+Generation: 1437
+Best Fit: +2585.97
+Generation: 1438
+Best Fit: +2585.97
+Generation: 1439
+Best Fit: +2585.97
+Generation: 1440
+Best Fit: +2585.97
+Generation: 1441
+Best Fit: +2585.97
+Generation: 1442
+Best Fit: +2585.97
+Generation: 1443
+Best Fit: +2585.97
+Generation: 1444
+Best Fit: +2585.97
+Generation: 1445
+Best Fit: +2585.97
+Generation: 1446
+Best Fit: +2585.97
+Generation: 1447
+Best Fit: +2585.97
+Generation: 1448
+Best Fit: +2585.97
+Generation: 1449
+Best Fit: +2585.97
+Generation: 1450
+Best Fit: +2585.97
+Generation: 1451
+Best Fit: +2585.97
+Generation: 1452
+Best Fit: +2585.97
+Generation: 1453
+Best Fit: +2585.97
+Generation: 1454
+Best Fit: +2585.97
+Generation: 1455
+Best Fit: +2585.97
+Generation: 1456
+Best Fit: +2585.97
+Generation: 1457
+Best Fit: +2585.97
+Generation: 1458
+Best Fit: +2585.97
+Generation: 1459
+Best Fit: +2585.97
+Generation: 1460
+Best Fit: +2585.97
+Generation: 1461
+Best Fit: +2585.97
+Generation: 1462
+Best Fit: +2585.97
+Generation: 1463
+Best Fit: +2585.97
+Generation: 1464
+Best Fit: +2585.97
+Generation: 1465
+Best Fit: +2585.97
+Generation: 1466
+Best Fit: +2585.97
+Generation: 1467
+Best Fit: +2585.97
+Generation: 1468
+Best Fit: +2585.97
+Generation: 1469
+Best Fit: +2585.97
+Generation: 1470
+Best Fit: +2585.97
+Generation: 1471
+Best Fit: +2585.97
+Generation: 1472
+Best Fit: +2585.97
+Generation: 1473
+Best Fit: +2585.97
+Generation: 1474
+Best Fit: +2585.97
+Generation: 1475
+Best Fit: +2585.97
+Generation: 1476
+Best Fit: +2585.97
+Generation: 1477
+Best Fit: +2585.97
+Generation: 1478
+Best Fit: +2585.97
+Generation: 1479
+Best Fit: +2585.97
+Generation: 1480
+Best Fit: +2585.97
+Generation: 1481
+Best Fit: +2585.97
+Generation: 1482
+Best Fit: +2585.97
+Generation: 1483
+Best Fit: +2585.97
+Generation: 1484
+Best Fit: +2585.97
+Generation: 1485
+Best Fit: +2585.97
+Generation: 1486
+Best Fit: +2585.97
+Generation: 1487
+Best Fit: +2585.97
+Generation: 1488
+Best Fit: +2585.97
+Generation: 1489
+Best Fit: +2585.97
+Generation: 1490
+Best Fit: +2585.97
+Generation: 1491
+Best Fit: +2585.97
+Generation: 1492
+Best Fit: +2585.97
+Generation: 1493
+Best Fit: +2585.97
+Generation: 1494
+Best Fit: +2585.97
+Generation: 1495
+Best Fit: +2585.97
+Generation: 1496
+Best Fit: +2585.97
+Generation: 1497
+Best Fit: +2585.97
+Generation: 1498
+Best Fit: +2585.97
+Generation: 1499
+Best Fit: +2585.97
+Generation: 1500
+Best Fit: +2585.97
+Generation: 1501
+Best Fit: +2585.97
+Generation: 1502
+Best Fit: +2585.97
+Generation: 1503
+Best Fit: +2585.97
+Generation: 1504
+Best Fit: +2585.97
+Generation: 1505
+Best Fit: +2585.97
+Generation: 1506
+Best Fit: +2585.97
+Generation: 1507
+Best Fit: +2585.97
+Generation: 1508
+Best Fit: +2585.97
+Generation: 1509
+Best Fit: +2585.97
+Generation: 1510
+Best Fit: +2585.97
+Generation: 1511
+Best Fit: +2585.97
+Generation: 1512
+Best Fit: +2585.97
+Generation: 1513
+Best Fit: +2585.97
+Generation: 1514
+Best Fit: +2585.97
+Generation: 1515
+Best Fit: +2585.97
+Generation: 1516
+Best Fit: +2585.97
+Generation: 1517
+Best Fit: +2585.97
+Generation: 1518
+Best Fit: +2585.97
+Generation: 1519
+Best Fit: +2585.97
+Generation: 1520
+Best Fit: +2585.97
+Generation: 1521
+Best Fit: +2585.97
+Generation: 1522
+Best Fit: +2585.97
+Generation: 1523
+Best Fit: +2585.97
+Generation: 1524
+Best Fit: +2585.97
+Generation: 1525
+Best Fit: +2585.97
+Generation: 1526
+Best Fit: +2585.97
+Generation: 1527
+Best Fit: +2585.97
+Generation: 1528
+Best Fit: +2585.97
+Generation: 1529
+Best Fit: +2585.97
+Generation: 1530
+Best Fit: +2585.97
+Generation: 1531
+Best Fit: +2585.97
+Generation: 1532
+Best Fit: +2585.97
+Generation: 1533
+Best Fit: +2585.97
+Generation: 1534
+Best Fit: +2585.97
+Generation: 1535
+Best Fit: +2585.97
+Generation: 1536
+Best Fit: +2585.97
+Generation: 1537
+Best Fit: +2585.97
+Generation: 1538
+Best Fit: +2585.97
+Generation: 1539
+Best Fit: +2585.97
+Generation: 1540
+Best Fit: +2585.97
+Generation: 1541
+Best Fit: +2585.97
+Generation: 1542
+Best Fit: +2585.97
+Generation: 1543
+Best Fit: +2585.97
+Generation: 1544
+Best Fit: +2585.97
+Generation: 1545
+Best Fit: +2585.97
+Generation: 1546
+Best Fit: +2585.97
+Generation: 1547
+Best Fit: +2585.97
+Generation: 1548
+Best Fit: +2585.97
+Generation: 1549
+Best Fit: +2585.97
+Generation: 1550
+Best Fit: +2585.97
+Generation: 1551
+Best Fit: +2585.97
+Generation: 1552
+Best Fit: +2585.97
+Generation: 1553
+Best Fit: +2585.97
+Generation: 1554
+Best Fit: +2585.97
+Generation: 1555
+Best Fit: +2585.97
+Generation: 1556
+Best Fit: +2585.97
+Generation: 1557
+Best Fit: +2585.97
+Generation: 1558
+Best Fit: +2585.97
+Generation: 1559
+Best Fit: +2585.97
+Generation: 1560
+Best Fit: +2585.97
+Generation: 1561
+Best Fit: +2585.97
+Generation: 1562
+Best Fit: +2585.97
+Generation: 1563
+Best Fit: +2585.97
+Generation: 1564
+Best Fit: +2585.97
+Generation: 1565
+Best Fit: +2585.97
+Generation: 1566
+Best Fit: +2585.97
+Generation: 1567
+Best Fit: +2585.97
+Generation: 1568
+Best Fit: +2585.97
+Generation: 1569
+Best Fit: +2585.97
+Generation: 1570
+Best Fit: +2585.97
+Generation: 1571
+Best Fit: +2585.97
+Generation: 1572
+Best Fit: +2585.97
+Generation: 1573
+Best Fit: +2585.97
+Generation: 1574
+Best Fit: +2585.97
+Generation: 1575
+Best Fit: +2585.97
+Generation: 1576
+Best Fit: +2585.97
+Generation: 1577
+Best Fit: +2585.97
+Generation: 1578
+Best Fit: +2585.97
+Generation: 1579
+Best Fit: +2585.97
+Generation: 1580
+Best Fit: +2585.97
+Generation: 1581
+Best Fit: +2585.97
+Generation: 1582
+Best Fit: +2585.97
+Generation: 1583
+Best Fit: +2585.97
+Generation: 1584
+Best Fit: +2585.97
+Generation: 1585
+Best Fit: +2585.97
+Generation: 1586
+Best Fit: +2585.97
+Generation: 1587
+Best Fit: +2585.97
+Generation: 1588
+Best Fit: +2585.97
+Generation: 1589
+Best Fit: +2585.97
+Generation: 1590
+Best Fit: +2585.97
+Generation: 1591
+Best Fit: +2585.97
+Generation: 1592
+Best Fit: +2585.97
+Generation: 1593
+Best Fit: +2585.97
+Generation: 1594
+Best Fit: +2585.97
+Generation: 1595
+Best Fit: +2585.97
+Generation: 1596
+Best Fit: +2585.97
+Generation: 1597
+Best Fit: +2585.97
+Generation: 1598
+Best Fit: +2585.97
+Generation: 1599
+Best Fit: +2585.97
+Generation: 1600
+Best Fit: +2585.97
+Generation: 1601
+Best Fit: +2585.97
+Generation: 1602
+Best Fit: +2585.97
+Generation: 1603
+Best Fit: +2585.97
+Generation: 1604
+Best Fit: +2585.97
+Generation: 1605
+Best Fit: +2585.97
+Generation: 1606
+Best Fit: +2585.97
+Generation: 1607
+Best Fit: +2585.97
+Generation: 1608
+Best Fit: +2585.97
+Generation: 1609
+Best Fit: +2585.97
+Generation: 1610
+Best Fit: +2585.97
+Generation: 1611
+Best Fit: +2585.97
+Generation: 1612
+Best Fit: +2585.97
+Generation: 1613
+Best Fit: +2585.97
+Generation: 1614
+Best Fit: +2585.97
+Generation: 1615
+Best Fit: +2585.97
+Generation: 1616
+Best Fit: +2585.97
+Generation: 1617
+Best Fit: +2585.97
+Generation: 1618
+Best Fit: +2585.97
+Generation: 1619
+Best Fit: +2585.97
+Generation: 1620
+Best Fit: +2585.97
+Generation: 1621
+Best Fit: +2585.97
+Generation: 1622
+Best Fit: +2585.97
+Generation: 1623
+Best Fit: +2585.97
+Generation: 1624
+Best Fit: +2585.97
+Generation: 1625
+Best Fit: +2585.97
+Generation: 1626
+Best Fit: +2585.97
+Generation: 1627
+Best Fit: +2585.97
+Generation: 1628
+Best Fit: +2585.97
+Generation: 1629
+Best Fit: +2585.97
+Generation: 1630
+Best Fit: +2585.97
+Generation: 1631
+Best Fit: +2585.97
+Generation: 1632
+Best Fit: +2585.97
+Generation: 1633
+Best Fit: +2585.97
+Generation: 1634
+Best Fit: +2585.97
+Generation: 1635
+Best Fit: +2585.97
+Generation: 1636
+Best Fit: +2585.97
+Generation: 1637
+Best Fit: +2585.97
+Generation: 1638
+Best Fit: +2585.97
+Generation: 1639
+Best Fit: +2585.97
+Generation: 1640
+Best Fit: +2585.97
+Generation: 1641
+Best Fit: +2585.97
+Generation: 1642
+Best Fit: +2585.97
+Generation: 1643
+Best Fit: +2585.97
+Generation: 1644
+Best Fit: +2585.97
+Generation: 1645
+Best Fit: +2585.97
+Generation: 1646
+Best Fit: +2585.97
+Generation: 1647
+Best Fit: +2585.97
+Generation: 1648
+Best Fit: +2585.97
+Generation: 1649
+Best Fit: +2585.97
+Generation: 1650
+Best Fit: +2585.97
+Generation: 1651
+Best Fit: +2585.97
+Generation: 1652
+Best Fit: +2585.97
+Generation: 1653
+Best Fit: +2585.97
+Generation: 1654
+Best Fit: +2585.97
+Generation: 1655
+Best Fit: +2585.97
+Generation: 1656
+Best Fit: +2585.97
+Generation: 1657
+Best Fit: +2585.97
+Generation: 1658
+Best Fit: +2585.97
+Generation: 1659
+Best Fit: +2585.97
+Generation: 1660
+Best Fit: +2585.97
+Generation: 1661
+Best Fit: +2585.97
+Generation: 1662
+Best Fit: +2585.97
+Generation: 1663
+Best Fit: +2585.97
+Generation: 1664
+Best Fit: +2585.97
+Generation: 1665
+Best Fit: +2585.97
+Generation: 1666
+Best Fit: +2585.97
+Generation: 1667
+Best Fit: +2585.97
+Generation: 1668
+Best Fit: +2585.97
+Generation: 1669
+Best Fit: +2585.97
+Generation: 1670
+Best Fit: +2585.97
+Generation: 1671
+Best Fit: +2585.97
+Generation: 1672
+Best Fit: +2585.97
+Generation: 1673
+Best Fit: +2585.97
+Generation: 1674
+Best Fit: +2585.97
+Generation: 1675
+Best Fit: +2585.97
+Generation: 1676
+Best Fit: +2585.97
+Generation: 1677
+Best Fit: +2585.97
+Generation: 1678
+Best Fit: +2585.97
+Generation: 1679
+Best Fit: +2585.97
+Generation: 1680
+Best Fit: +2585.97
+Generation: 1681
+Best Fit: +2585.97
+Generation: 1682
+Best Fit: +2585.97
+Generation: 1683
+Best Fit: +2585.97
+Generation: 1684
+Best Fit: +2585.97
+Generation: 1685
+Best Fit: +2585.97
+Generation: 1686
+Best Fit: +2585.97
+Generation: 1687
+Best Fit: +2585.97
+Generation: 1688
+Best Fit: +2585.97
+Generation: 1689
+Best Fit: +2585.97
+Generation: 1690
+Best Fit: +2585.97
+Generation: 1691
+Best Fit: +2585.97
+Generation: 1692
+Best Fit: +2585.97
+Generation: 1693
+Best Fit: +2585.97
+Generation: 1694
+Best Fit: +2585.97
+Generation: 1695
+Best Fit: +2585.97
+Generation: 1696
+Best Fit: +2585.97
+Generation: 1697
+Best Fit: +2585.97
+Generation: 1698
+Best Fit: +2585.97
+Generation: 1699
+Best Fit: +2585.97
+Generation: 1700
+Best Fit: +2585.97
+Generation: 1701
+Best Fit: +2585.97
+Generation: 1702
+Best Fit: +2585.97
+Generation: 1703
+Best Fit: +2585.97
+Generation: 1704
+Best Fit: +2585.97
+Generation: 1705
+Best Fit: +2585.97
+Generation: 1706
+Best Fit: +2585.97
+Generation: 1707
+Best Fit: +2585.97
+Generation: 1708
+Best Fit: +2585.97
+Generation: 1709
+Best Fit: +2585.97
+Generation: 1710
+Best Fit: +2585.97
+Generation: 1711
+Best Fit: +2585.97
+Generation: 1712
+Best Fit: +2585.97
+Generation: 1713
+Best Fit: +2585.97
+Generation: 1714
+Best Fit: +2585.97
+Generation: 1715
+Best Fit: +2585.97
+Generation: 1716
+Best Fit: +2585.97
+Generation: 1717
+Best Fit: +2585.97
+Generation: 1718
+Best Fit: +2585.97
+Generation: 1719
+Best Fit: +2585.97
+Generation: 1720
+Best Fit: +2585.97
+Generation: 1721
+Best Fit: +2585.97
+Generation: 1722
+Best Fit: +2585.97
+Generation: 1723
+Best Fit: +2585.97
+Generation: 1724
+Best Fit: +2585.97
+Generation: 1725
+Best Fit: +2585.97
+Generation: 1726
+Best Fit: +2585.97
+Generation: 1727
+Best Fit: +2585.97
+Generation: 1728
+Best Fit: +2585.97
+Generation: 1729
+Best Fit: +2585.97
+Generation: 1730
+Best Fit: +2585.97
+Generation: 1731
+Best Fit: +2585.97
+Generation: 1732
+Best Fit: +2585.97
+Generation: 1733
+Best Fit: +2585.97
+Generation: 1734
+Best Fit: +2585.97
+Generation: 1735
+Best Fit: +2585.97
+Generation: 1736
+Best Fit: +2585.97
+Generation: 1737
+Best Fit: +2585.97
+Generation: 1738
+Best Fit: +2585.97
+Generation: 1739
+Best Fit: +2585.97
+Generation: 1740
+Best Fit: +2585.97
+Generation: 1741
+Best Fit: +2585.97
+Generation: 1742
+Best Fit: +2585.97
+Generation: 1743
+Best Fit: +2585.97
+Generation: 1744
+Best Fit: +2585.97
+Generation: 1745
+Best Fit: +2585.97
+Generation: 1746
+Best Fit: +2585.97
+Generation: 1747
+Best Fit: +2585.97
+Generation: 1748
+Best Fit: +2585.97
+Generation: 1749
+Best Fit: +2585.97
+Generation: 1750
+Best Fit: +2585.97
+Generation: 1751
+Best Fit: +2585.97
+Generation: 1752
+Best Fit: +2585.97
+Generation: 1753
+Best Fit: +2585.97
+Generation: 1754
+Best Fit: +2585.97
+Generation: 1755
+Best Fit: +2585.97
+Generation: 1756
+Best Fit: +2585.97
+Generation: 1757
+Best Fit: +2585.97
+Generation: 1758
+Best Fit: +2585.97
+Generation: 1759
+Best Fit: +2585.97
+Generation: 1760
+Best Fit: +2585.97
+Generation: 1761
+Best Fit: +2585.97
+Generation: 1762
+Best Fit: +2585.97
+Generation: 1763
+Best Fit: +2585.97
+Generation: 1764
+Best Fit: +2585.97
+Generation: 1765
+Best Fit: +2585.97
+Generation: 1766
+Best Fit: +2585.97
+Generation: 1767
+Best Fit: +2585.97
+Generation: 1768
+Best Fit: +2585.97
+Generation: 1769
+Best Fit: +2585.97
+Generation: 1770
+Best Fit: +2585.97
+Generation: 1771
+Best Fit: +2585.97
+Generation: 1772
+Best Fit: +2585.97
+Generation: 1773
+Best Fit: +2585.97
+Generation: 1774
+Best Fit: +2585.97
+Generation: 1775
+Best Fit: +2585.97
+Generation: 1776
+Best Fit: +2585.97
+Generation: 1777
+Best Fit: +2585.97
+Generation: 1778
+Best Fit: +2585.97
+Generation: 1779
+Best Fit: +2585.97
+Generation: 1780
+Best Fit: +2585.97
+Generation: 1781
+Best Fit: +2585.97
+Generation: 1782
+Best Fit: +2585.97
+Generation: 1783
+Best Fit: +2585.97
+Generation: 1784
+Best Fit: +2585.97
+Generation: 1785
+Best Fit: +2585.97
+Generation: 1786
+Best Fit: +2585.97
+Generation: 1787
+Best Fit: +2585.97
+Generation: 1788
+Best Fit: +2585.97
+Generation: 1789
+Best Fit: +2585.97
+Generation: 1790
+Best Fit: +2585.97
+Generation: 1791
+Best Fit: +2585.97
+Generation: 1792
+Best Fit: +2585.97
+Generation: 1793
+Best Fit: +2585.97
+Generation: 1794
+Best Fit: +2585.97
+Generation: 1795
+Best Fit: +2585.97
+Generation: 1796
+Best Fit: +2585.97
+Generation: 1797
+Best Fit: +2585.97
+Generation: 1798
+Best Fit: +2585.97
+Generation: 1799
+Best Fit: +2585.97
+Generation: 1800
+Best Fit: +2585.97
+Generation: 1801
+Best Fit: +2585.97
+Generation: 1802
+Best Fit: +2585.97
+Generation: 1803
+Best Fit: +2585.97
+Generation: 1804
+Best Fit: +2585.97
+Generation: 1805
+Best Fit: +2585.97
+Generation: 1806
+Best Fit: +2585.97
+Generation: 1807
+Best Fit: +2585.97
+Generation: 1808
+Best Fit: +2585.97
+Generation: 1809
+Best Fit: +2585.97
+Generation: 1810
+Best Fit: +2585.97
+Generation: 1811
+Best Fit: +2585.97
+Generation: 1812
+Best Fit: +2585.97
+Generation: 1813
+Best Fit: +2585.97
+Generation: 1814
+Best Fit: +2585.97
+Generation: 1815
+Best Fit: +2585.97
+Generation: 1816
+Best Fit: +2585.97
+Generation: 1817
+Best Fit: +2585.97
+Generation: 1818
+Best Fit: +2585.97
+Generation: 1819
+Best Fit: +2585.97
+Generation: 1820
+Best Fit: +2585.97
+Generation: 1821
+Best Fit: +2585.97
+Generation: 1822
+Best Fit: +2585.97
+Generation: 1823
+Best Fit: +2585.97
+Generation: 1824
+Best Fit: +2585.97
+Generation: 1825
+Best Fit: +2585.97
+Generation: 1826
+Best Fit: +2585.97
+Generation: 1827
+Best Fit: +2585.97
+Generation: 1828
+Best Fit: +2585.97
+Generation: 1829
+Best Fit: +2585.97
+Generation: 1830
+Best Fit: +2585.97
+Generation: 1831
+Best Fit: +2585.97
+Generation: 1832
+Best Fit: +2585.97
+Generation: 1833
+Best Fit: +2585.97
+Generation: 1834
+Best Fit: +2585.97
+Generation: 1835
+Best Fit: +2585.97
+Generation: 1836
+Best Fit: +2585.97
+Generation: 1837
+Best Fit: +2585.97
+Generation: 1838
+Best Fit: +2585.97
+Generation: 1839
+Best Fit: +2585.97
+Generation: 1840
+Best Fit: +2585.97
+Generation: 1841
+Best Fit: +2585.97
+Generation: 1842
+Best Fit: +2585.97
+Generation: 1843
+Best Fit: +2585.97
+Generation: 1844
+Best Fit: +2585.97
+Generation: 1845
+Best Fit: +2585.97
+Generation: 1846
+Best Fit: +2585.97
+Generation: 1847
+Best Fit: +2585.97
+Generation: 1848
+Best Fit: +2585.97
+Generation: 1849
+Best Fit: +2585.97
+Generation: 1850
+Best Fit: +2585.97
+Generation: 1851
+Best Fit: +2585.97
+Generation: 1852
+Best Fit: +2585.97
+Generation: 1853
+Best Fit: +2585.97
+Generation: 1854
+Best Fit: +2585.97
+Generation: 1855
+Best Fit: +2585.97
+Generation: 1856
+Best Fit: +2585.97
+Generation: 1857
+Best Fit: +2585.97
+Generation: 1858
+Best Fit: +2585.97
+Generation: 1859
+Best Fit: +2585.97
+Generation: 1860
+Best Fit: +2585.97
+Generation: 1861
+Best Fit: +2585.97
+Generation: 1862
+Best Fit: +2585.97
+Generation: 1863
+Best Fit: +2585.97
+Generation: 1864
+Best Fit: +2585.97
+Generation: 1865
+Best Fit: +2585.97
+Generation: 1866
+Best Fit: +2585.97
+Generation: 1867
+Best Fit: +2585.97
+Generation: 1868
+Best Fit: +2585.97
+Generation: 1869
+Best Fit: +2585.97
+Generation: 1870
+Best Fit: +2585.97
+Generation: 1871
+Best Fit: +2585.97
+Generation: 1872
+Best Fit: +2585.97
+Generation: 1873
+Best Fit: +2585.97
+Generation: 1874
+Best Fit: +2585.97
+Generation: 1875
+Best Fit: +2585.97
+Generation: 1876
+Best Fit: +2585.97
+Generation: 1877
+Best Fit: +2585.97
+Generation: 1878
+Best Fit: +2585.97
+Generation: 1879
+Best Fit: +2585.97
+Generation: 1880
+Best Fit: +2585.97
+Generation: 1881
+Best Fit: +2585.97
+Generation: 1882
+Best Fit: +2585.97
+Generation: 1883
+Best Fit: +2585.97
+Generation: 1884
+Best Fit: +2585.97
+Generation: 1885
+Best Fit: +2585.97
+Generation: 1886
+Best Fit: +2585.97
+Generation: 1887
+Best Fit: +2585.97
+Generation: 1888
+Best Fit: +2585.97
+Generation: 1889
+Best Fit: +2585.97
+Generation: 1890
+Best Fit: +2585.97
+Generation: 1891
+Best Fit: +2585.97
+Generation: 1892
+Best Fit: +2585.97
+Generation: 1893
+Best Fit: +2585.97
+Generation: 1894
+Best Fit: +2585.97
+Generation: 1895
+Best Fit: +2585.97
+Generation: 1896
+Best Fit: +2585.97
+Generation: 1897
+Best Fit: +2585.97
+Generation: 1898
+Best Fit: +2585.97
+Generation: 1899
+Best Fit: +2585.97
+Generation: 1900
+Best Fit: +2585.97
+Generation: 1901
+Best Fit: +2585.97
+Generation: 1902
+Best Fit: +2585.97
+Generation: 1903
+Best Fit: +2585.97
+Generation: 1904
+Best Fit: +2585.97
+Generation: 1905
+Best Fit: +2585.97
+Generation: 1906
+Best Fit: +2585.97
+Generation: 1907
+Best Fit: +2585.97
+Generation: 1908
+Best Fit: +2585.97
+Generation: 1909
+Best Fit: +2585.97
+Generation: 1910
+Best Fit: +2585.97
+Generation: 1911
+Best Fit: +2585.97
+Generation: 1912
+Best Fit: +2585.97
+Generation: 1913
+Best Fit: +2585.97
+Generation: 1914
+Best Fit: +2585.97
+Generation: 1915
+Best Fit: +2585.97
+Generation: 1916
+Best Fit: +2585.97
+Generation: 1917
+Best Fit: +2585.97
+Generation: 1918
+Best Fit: +2585.97
+Generation: 1919
+Best Fit: +2585.97
+Generation: 1920
+Best Fit: +2585.97
+Generation: 1921
+Best Fit: +2585.97
+Generation: 1922
+Best Fit: +2585.97
+Generation: 1923
+Best Fit: +2585.97
+Generation: 1924
+Best Fit: +2585.97
+Generation: 1925
+Best Fit: +2585.97
+Generation: 1926
+Best Fit: +2585.97
+Generation: 1927
+Best Fit: +2585.97
+Generation: 1928
+Best Fit: +2585.97
+Generation: 1929
+Best Fit: +2585.97
+Generation: 1930
+Best Fit: +2585.97
+Generation: 1931
+Best Fit: +2585.97
+Generation: 1932
+Best Fit: +2585.97
+Generation: 1933
+Best Fit: +2585.97
+Generation: 1934
+Best Fit: +2585.97
+Generation: 1935
+Best Fit: +2585.97
+Generation: 1936
+Best Fit: +2585.97
+Generation: 1937
+Best Fit: +2585.97
+Generation: 1938
+Best Fit: +2585.97
+Generation: 1939
+Best Fit: +2585.97
+Generation: 1940
+Best Fit: +2585.97
+Generation: 1941
+Best Fit: +2585.97
+Generation: 1942
+Best Fit: +2585.97
+Generation: 1943
+Best Fit: +2585.97
+Generation: 1944
+Best Fit: +2585.97
+Generation: 1945
+Best Fit: +2585.97
+Generation: 1946
+Best Fit: +2585.97
+Generation: 1947
+Best Fit: +2585.97
+Generation: 1948
+Best Fit: +2585.97
+Generation: 1949
+Best Fit: +2585.97
+Generation: 1950
+Best Fit: +2585.97
+Generation: 1951
+Best Fit: +2585.97
+Generation: 1952
+Best Fit: +2585.97
+Generation: 1953
+Best Fit: +2585.97
+Generation: 1954
+Best Fit: +2585.97
+Generation: 1955
+Best Fit: +2585.97
+Generation: 1956
+Best Fit: +2585.97
+Generation: 1957
+Best Fit: +2585.97
+Generation: 1958
+Best Fit: +2585.97
+Generation: 1959
+Best Fit: +2585.97
+Generation: 1960
+Best Fit: +2585.97
+Generation: 1961
+Best Fit: +2585.97
+Generation: 1962
+Best Fit: +2585.97
+Generation: 1963
+Best Fit: +2585.97
+Generation: 1964
+Best Fit: +2585.97
+Generation: 1965
+Best Fit: +2585.97
+Generation: 1966
+Best Fit: +2585.97
+Generation: 1967
+Best Fit: +2585.97
+Generation: 1968
+Best Fit: +2585.97
+Generation: 1969
+Best Fit: +2585.97
+Generation: 1970
+Best Fit: +2585.97
+Generation: 1971
+Best Fit: +2585.97
+Generation: 1972
+Best Fit: +2585.97
+Generation: 1973
+Best Fit: +2585.97
+Generation: 1974
+Best Fit: +2585.97
+Generation: 1975
+Best Fit: +2585.97
+Generation: 1976
+Best Fit: +2585.97
+Generation: 1977
+Best Fit: +2585.97
+Generation: 1978
+Best Fit: +2585.97
+Generation: 1979
+Best Fit: +2585.97
+Generation: 1980
+Best Fit: +2585.97
+Generation: 1981
+Best Fit: +2585.97
+Generation: 1982
+Best Fit: +2585.97
+Generation: 1983
+Best Fit: +2585.97
+Generation: 1984
+Best Fit: +2585.97
+Generation: 1985
+Best Fit: +2585.97
+Generation: 1986
+Best Fit: +2585.97
+Generation: 1987
+Best Fit: +2585.97
+Generation: 1988
+Best Fit: +2585.97
+Generation: 1989
+Best Fit: +2585.97
+Generation: 1990
+Best Fit: +2585.97
+Generation: 1991
+Best Fit: +2585.97
+Generation: 1992
+Best Fit: +2585.97
+Generation: 1993
+Best Fit: +2585.97
+Generation: 1994
+Best Fit: +2585.97
+Generation: 1995
+Best Fit: +2585.97
+Generation: 1996
+Best Fit: +2585.97
+Generation: 1997
+Best Fit: +2585.97
+Generation: 1998
+Best Fit: +2585.97
+Generation: 1999
+Best Fit: +2585.97

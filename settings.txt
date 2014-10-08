@@ -1,0 +1,5 @@
+population: 73
+generations: 8
+crossover: .74
+mutation: .22
+elite: .12
